@@ -1,0 +1,43 @@
+Document Type,Module,Schema,Table,ERP Process,Tax Related
+Sales Order,Order-to-Cash,oms,tblSalesOrderHeaderArc,order-to-cash,no
+Sales Quotation,Order-to-Cash,oms,tblSalesQuotationHeaderArc,order-to-cash,no
+Sales Invoice,Order-to-Cash,oms,tblSalesInvoiceArc,order-to-cash,yes
+Service Sales Invoice,Order-to-Cash,oms,tblServiceSalesInvoiceHeaderArc,order-to-cash,yes
+Sales Return,Order-to-Cash,sms,tblSalesReturnHeaderArc,order-to-cash,yes
+Delivery,Order-to-Cash,sms,tblDeliveryHeaderArc,order-to-cash,yes
+Outlet Delivery,Order-to-Cash,rtm,tblOutletDeliveryHeaderArc,order-to-cash,no
+Outlet Return Challan,Order-to-Cash,rtm,tblOutletReturnChallanHeaderArc,order-to-cash,no
+Monthly Commission,Order-to-Cash,sms,tblMonthlyCommissionHeaderArc,order-to-cash,no
+Purchase Order,Source-to-Pay,pro,tblPurchaseOrderHeaderArc,source-to-contract / procure-to-pay,yes
+Purchase Request,Source-to-Pay,pro,tblPurchaseRequestHeaderArc,source-to-contract / procure-to-pay,no
+RFQ,Source-to-Pay,pro,tblRequestForQuotationHeaderArc,source-to-contract,no
+Supplier Agreement,Source-to-Pay,pro,tblSupplierAgreementHeaderArc,source-to-contract,yes
+Supplier Invoice,Source-to-Pay,inv,tblSupplierInvoiceHeaderArc,procure-to-pay,yes
+Bill Register,Record-to-Report,fin,tblBillRegisterArc,record-to-report,yes
+Cash Journal,Record-to-Report,fin,tblCashJournalHeaderArc,record-to-report,no
+Bank Journal,Record-to-Report,fin,tblBankJournalHeaderArc,record-to-report,no
+Adjustment Journal,Record-to-Report,fin,tblAdjustmentJournalHeaderArc,record-to-report,yes
+Expense Register,Record-to-Report,fin,tblExpenseRegisterHeaderArc,record-to-report,yes
+Letter of Credit,Trade & Treasury,com,tblLetterOfCreditArc,treasury / import,no
+LC Amendment,Trade & Treasury,com,tblLCAmendmentHeaderArc,treasury / import,no
+LC Claim,Trade & Treasury,com,tblLcClaimArc,treasury / import,no
+Proforma Invoice,Trade & Treasury,com,tblProformaInvoiceHeaderArc,import,no
+Import Shipment,Trade & Treasury,com,tblImportShipmentHeaderArc,import,no
+Customs Duty,Tax,com,tblCustomDutyHeaderArc,import / tax,yes
+Customs Tariff Schedule,Tax,com,tblCustomsTarrifScheduleArc,import / tax,yes
+Advance Customs Duty Payment,Tax,com,tblCustomDutyAdvancePaymentArc,import / tax,yes
+Customs RTGS,Tax,com,tblCustomRTGSHeaderArc,import / tax,yes
+Employee Tax Record,Tax,saas,empTaxArc,hire-to-retire / tax,yes
+Employee Tax Return,Tax,saas,empEmployeeTaxReturnArc,hire-to-retire / tax,yes
+Tax Challan Config,Tax,saas,masterTaxChallanConfigArc,tax,yes
+Business Partner (TIN/BIN),Master Data,prt,tblBusinessPartnerArc,source-to-contract / order-to-cash,yes
+Insurance Cover Note,Trade & Treasury,com,tblInsuranceCoverNoteHeaderArc,insurance,no
+Shipment,Logistics,tms,tblShipmentHeaderArc,logistics,no
+Shipping Invoice,Logistics,sip,tblShippingInvoiceHeaderArc,logistics,yes
+Ship Booking Request,Logistics,sip,tblShipBookingRequestHeaderArc,logistics,no
+Inventory Transaction,Warehouse,wms,tblInventoryTransactionHeaderArc,inventory,yes
+RTM Inventory Transaction,Warehouse,rtm,tblRtmInventoryTransactionHeaderArc,inventory,no
+Gate Pass,Warehouse,wms,tblGatePassHeaderArc,inventory,no
+Item Request,Warehouse,wms,tblItemRequestHeaderArc,procure-to-pay,no
+Virtual Warehouse Transaction,Warehouse,wms,tblVirtualWarehouseTransactionHeaderArc,inventory,no
+Production Planning,Manufacturing,mes,tblProductionPlanningHeaderArc,manufacturing,no

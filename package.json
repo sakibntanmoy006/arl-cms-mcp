@@ -1,0 +1,37 @@
+{
+  "name": "arl-cms-mcp",
+  "version": "1.0.0",
+  "description": "ARL-CMS MCP server - AKIJ Resources Compliance Management System knowledge base: 584 compliance requirements (80 domains / 11 categories), Bangladesh legal risk register (2,612 risks), 55 ERP document-type 3-tier compliance map, 42 ERP business documents, and 20 core Bangladesh laws. Resolves compliance questions in strict 3-tier order (T1 internal policy library, T2 Bangladesh law, T3 global standard).",
+  "main": "server-arl-cms.js",
+  "bin": {
+    "arl-cms-mcp": "server-arl-cms.js"
+  },
+  "files": [
+    "server-arl-cms.js",
+    "data/requirements-full.csv",
+    "data/requirements-index.csv",
+    "data/risk-register.csv",
+    "data/document-compliance.csv",
+    "data/business-documents.csv",
+    "data/bdlaws.json",
+    "README.md"
+  ],
+  "scripts": {
+    "start": "node server-arl-cms.js",
+    "test": "node -e \"require('./server-arl-cms.js'); console.log('ARL-CMS MCP loaded OK')\""
+  },
+  "keywords": [
+    "mcp",
+    "cms",
+    "compliance",
+    "grc",
+    "iso-37301",
+    "akij",
+    "clms",
+    "bangladesh-law",
+    "requirements"
+  ],
+  "author": "ARL CLMS Team",
+  "license": "UNLICENSED",
+  "dependencies": {}
+}

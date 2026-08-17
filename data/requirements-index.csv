@@ -1,0 +1,585 @@
+Compliance Name,Domain Name,Category,Typical Applicability / SBU,Indicative Process Owner
+Companies Act Compliance,Corporate Governance Compliance,"Governance, Legal & Integrity",All legal entities and corporate offices,Company Secretary / Board Office
+Corporate Governance Code,Corporate Governance Compliance,"Governance, Legal & Integrity",All legal entities and corporate offices,Company Secretary / Board Office
+Board Governance,Corporate Governance Compliance,"Governance, Legal & Integrity",All legal entities and corporate offices,Company Secretary / Board Office
+Board Committee Compliance,Corporate Governance Compliance,"Governance, Legal & Integrity",All legal entities and corporate offices,Company Secretary / Board Office
+Shareholder Compliance,Corporate Governance Compliance,"Governance, Legal & Integrity",All legal entities and corporate offices,Company Secretary / Board Office
+Director Compliance,Corporate Governance Compliance,"Governance, Legal & Integrity",All legal entities and corporate offices,Company Secretary / Board Office
+Corporate Secretarial Compliance,Corporate Governance Compliance,"Governance, Legal & Integrity",All legal entities and corporate offices,Company Secretary / Board Office
+Annual General Meeting (AGM),Corporate Governance Compliance,"Governance, Legal & Integrity",All legal entities and corporate offices,Company Secretary / Board Office
+Extraordinary General Meeting (EGM),Corporate Governance Compliance,"Governance, Legal & Integrity",All legal entities and corporate offices,Company Secretary / Board Office
+Statutory Registers,Corporate Governance Compliance,"Governance, Legal & Integrity",All legal entities and corporate offices,Company Secretary / Board Office
+Beneficial Ownership,Corporate Governance Compliance,"Governance, Legal & Integrity",All legal entities and corporate offices,Company Secretary / Board Office
+Delegation of Authority (DOA),Corporate Governance Compliance,"Governance, Legal & Integrity",All legal entities and corporate offices,Company Secretary / Board Office
+Approval Matrix,Corporate Governance Compliance,"Governance, Legal & Integrity",All legal entities and corporate offices,Company Secretary / Board Office
+Related Party Transactions,Corporate Governance Compliance,"Governance, Legal & Integrity",All legal entities and corporate offices,Company Secretary / Board Office
+Corporate Disclosure,Corporate Governance Compliance,"Governance, Legal & Integrity",All legal entities and corporate offices,Company Secretary / Board Office
+Corporate Record Management,Corporate Governance Compliance,"Governance, Legal & Integrity",All legal entities and corporate offices,Company Secretary / Board Office
+Legal Register,Legal Compliance,"Governance, Legal & Integrity","All SBUs, entities, sites and contracts",Head of Legal
+Statutory Compliance,Legal Compliance,"Governance, Legal & Integrity","All SBUs, entities, sites and contracts",Head of Legal
+Regulatory Compliance,Legal Compliance,"Governance, Legal & Integrity","All SBUs, entities, sites and contracts",Head of Legal
+Contract Compliance,Legal Compliance,"Governance, Legal & Integrity","All SBUs, entities, sites and contracts",Head of Legal
+Contract Lifecycle Management,Legal Compliance,"Governance, Legal & Integrity","All SBUs, entities, sites and contracts",Head of Legal
+Intellectual Property,Legal Compliance,"Governance, Legal & Integrity","All SBUs, entities, sites and contracts",Head of Legal
+Trademark Compliance,Legal Compliance,"Governance, Legal & Integrity","All SBUs, entities, sites and contracts",Head of Legal
+Copyright Compliance,Legal Compliance,"Governance, Legal & Integrity","All SBUs, entities, sites and contracts",Head of Legal
+Patent Compliance,Legal Compliance,"Governance, Legal & Integrity","All SBUs, entities, sites and contracts",Head of Legal
+Litigation Management,Legal Compliance,"Governance, Legal & Integrity","All SBUs, entities, sites and contracts",Head of Legal
+Court Order Compliance,Legal Compliance,"Governance, Legal & Integrity","All SBUs, entities, sites and contracts",Head of Legal
+Arbitration Management,Legal Compliance,"Governance, Legal & Integrity","All SBUs, entities, sites and contracts",Head of Legal
+Legal Opinion Register,Legal Compliance,"Governance, Legal & Integrity","All SBUs, entities, sites and contracts",Head of Legal
+Legal Notice Management,Legal Compliance,"Governance, Legal & Integrity","All SBUs, entities, sites and contracts",Head of Legal
+Licence Management,Legal Compliance,"Governance, Legal & Integrity","All SBUs, entities, sites and contracts",Head of Legal
+Permit Management,Legal Compliance,"Governance, Legal & Integrity","All SBUs, entities, sites and contracts",Head of Legal
+Ministry Requirements,Regulatory Compliance,"Governance, Legal & Integrity","All regulated entities, facilities and activities",Head of Compliance / Legal
+Regulatory Authority Compliance,Regulatory Compliance,"Governance, Legal & Integrity","All regulated entities, facilities and activities",Head of Compliance / Legal
+Industry Regulator Compliance,Regulatory Compliance,"Governance, Legal & Integrity","All regulated entities, facilities and activities",Head of Compliance / Legal
+Local Government Compliance,Regulatory Compliance,"Governance, Legal & Integrity","All regulated entities, facilities and activities",Head of Compliance / Legal
+Municipal Compliance,Regulatory Compliance,"Governance, Legal & Integrity","All regulated entities, facilities and activities",Head of Compliance / Legal
+Fire Service Compliance,Regulatory Compliance,"Governance, Legal & Integrity","All regulated entities, facilities and activities",Head of Compliance / Legal
+Factory Inspection Compliance,Regulatory Compliance,"Governance, Legal & Integrity","All regulated entities, facilities and activities",Head of Compliance / Legal
+Environmental Regulator Compliance,Regulatory Compliance,"Governance, Legal & Integrity","All regulated entities, facilities and activities",Head of Compliance / Legal
+Customs Compliance,Regulatory Compliance,"Governance, Legal & Integrity","All regulated entities, facilities and activities",Head of Compliance / Legal
+Export Promotion Compliance,Regulatory Compliance,"Governance, Legal & Integrity","All regulated entities, facilities and activities",Head of Compliance / Legal
+Standards Authority Compliance,Regulatory Compliance,"Governance, Legal & Integrity","All regulated entities, facilities and activities",Head of Compliance / Legal
+Utility Regulatory Compliance,Regulatory Compliance,"Governance, Legal & Integrity","All regulated entities, facilities and activities",Head of Compliance / Legal
+Corporate Income Tax,Tax Compliance,"Finance, Tax & Insurance",All taxable entities and transactions,Head of Tax / CFO
+VAT,Tax Compliance,"Finance, Tax & Insurance",All taxable entities and transactions,Head of Tax / CFO
+Customs Duty,Tax Compliance,"Finance, Tax & Insurance",All taxable entities and transactions,Head of Tax / CFO
+Import Duty,Tax Compliance,"Finance, Tax & Insurance",All taxable entities and transactions,Head of Tax / CFO
+Export Duty,Tax Compliance,"Finance, Tax & Insurance",All taxable entities and transactions,Head of Tax / CFO
+Withholding Tax,Tax Compliance,"Finance, Tax & Insurance",All taxable entities and transactions,Head of Tax / CFO
+Advance Income Tax,Tax Compliance,"Finance, Tax & Insurance",All taxable entities and transactions,Head of Tax / CFO
+Transfer Pricing,Tax Compliance,"Finance, Tax & Insurance",All taxable entities and transactions,Head of Tax / CFO
+Excise Duty,Tax Compliance,"Finance, Tax & Insurance",All taxable entities and transactions,Head of Tax / CFO
+Supplementary Duty,Tax Compliance,"Finance, Tax & Insurance",All taxable entities and transactions,Head of Tax / CFO
+Stamp Duty,Tax Compliance,"Finance, Tax & Insurance",All taxable entities and transactions,Head of Tax / CFO
+Tax Return,Tax Compliance,"Finance, Tax & Insurance",All taxable entities and transactions,Head of Tax / CFO
+Tax Assessment,Tax Compliance,"Finance, Tax & Insurance",All taxable entities and transactions,Head of Tax / CFO
+Tax Audit,Tax Compliance,"Finance, Tax & Insurance",All taxable entities and transactions,Head of Tax / CFO
+Tax Certificates,Tax Compliance,"Finance, Tax & Insurance",All taxable entities and transactions,Head of Tax / CFO
+IFRS Compliance,Finance Compliance,"Finance, Tax & Insurance",All SBUs and reporting entities,Chief Financial Officer
+IAS Compliance,Finance Compliance,"Finance, Tax & Insurance",All SBUs and reporting entities,Chief Financial Officer
+Internal Financial Controls,Finance Compliance,"Finance, Tax & Insurance",All SBUs and reporting entities,Chief Financial Officer
+Treasury Compliance,Finance Compliance,"Finance, Tax & Insurance",All SBUs and reporting entities,Chief Financial Officer
+Cash Management,Finance Compliance,"Finance, Tax & Insurance",All SBUs and reporting entities,Chief Financial Officer
+Budget Compliance,Finance Compliance,"Finance, Tax & Insurance",All SBUs and reporting entities,Chief Financial Officer
+Financial Reporting,Finance Compliance,"Finance, Tax & Insurance",All SBUs and reporting entities,Chief Financial Officer
+External Audit,Finance Compliance,"Finance, Tax & Insurance",All SBUs and reporting entities,Chief Financial Officer
+Internal Audit,Finance Compliance,"Finance, Tax & Insurance",All SBUs and reporting entities,Chief Financial Officer
+Asset Verification,Finance Compliance,"Finance, Tax & Insurance",All SBUs and reporting entities,Chief Financial Officer
+Fixed Asset Register,Finance Compliance,"Finance, Tax & Insurance",All SBUs and reporting entities,Chief Financial Officer
+Inventory Controls,Finance Compliance,"Finance, Tax & Insurance",All SBUs and reporting entities,Chief Financial Officer
+Banking Compliance,Finance Compliance,"Finance, Tax & Insurance",All SBUs and reporting entities,Chief Financial Officer
+ISO 31000,Enterprise Risk Management,"Governance, Legal & Integrity",Group-wide and all SBUs,Chief Risk Officer
+Enterprise Risk Management,Enterprise Risk Management,"Governance, Legal & Integrity",Group-wide and all SBUs,Chief Risk Officer
+Compliance Risk,Enterprise Risk Management,"Governance, Legal & Integrity",Group-wide and all SBUs,Chief Risk Officer
+Operational Risk,Enterprise Risk Management,"Governance, Legal & Integrity",Group-wide and all SBUs,Chief Risk Officer
+Strategic Risk,Enterprise Risk Management,"Governance, Legal & Integrity",Group-wide and all SBUs,Chief Risk Officer
+Financial Risk,Enterprise Risk Management,"Governance, Legal & Integrity",Group-wide and all SBUs,Chief Risk Officer
+Project Risk,Enterprise Risk Management,"Governance, Legal & Integrity",Group-wide and all SBUs,Chief Risk Officer
+Reputational Risk,Enterprise Risk Management,"Governance, Legal & Integrity",Group-wide and all SBUs,Chief Risk Officer
+Emerging Risk,Enterprise Risk Management,"Governance, Legal & Integrity",Group-wide and all SBUs,Chief Risk Officer
+Business Continuity Risk,Enterprise Risk Management,"Governance, Legal & Integrity",Group-wide and all SBUs,Chief Risk Officer
+Risk Register,Enterprise Risk Management,"Governance, Legal & Integrity",Group-wide and all SBUs,Chief Risk Officer
+Risk Appetite,Enterprise Risk Management,"Governance, Legal & Integrity",Group-wide and all SBUs,Chief Risk Officer
+Risk Treatment,Enterprise Risk Management,"Governance, Legal & Integrity",Group-wide and all SBUs,Chief Risk Officer
+ISO 37301,Compliance Management System,"Governance, Legal & Integrity",Group-wide and all SBUs,Chief Compliance Officer
+Compliance Obligations,Compliance Management System,"Governance, Legal & Integrity",Group-wide and all SBUs,Chief Compliance Officer
+Compliance Universe,Compliance Management System,"Governance, Legal & Integrity",Group-wide and all SBUs,Chief Compliance Officer
+Compliance Register,Compliance Management System,"Governance, Legal & Integrity",Group-wide and all SBUs,Chief Compliance Officer
+Compliance Monitoring,Compliance Management System,"Governance, Legal & Integrity",Group-wide and all SBUs,Chief Compliance Officer
+Compliance Testing,Compliance Management System,"Governance, Legal & Integrity",Group-wide and all SBUs,Chief Compliance Officer
+Compliance Assessment,Compliance Management System,"Governance, Legal & Integrity",Group-wide and all SBUs,Chief Compliance Officer
+Compliance Reporting,Compliance Management System,"Governance, Legal & Integrity",Group-wide and all SBUs,Chief Compliance Officer
+Compliance Dashboard,Compliance Management System,"Governance, Legal & Integrity",Group-wide and all SBUs,Chief Compliance Officer
+Compliance Review,Compliance Management System,"Governance, Legal & Integrity",Group-wide and all SBUs,Chief Compliance Officer
+Compliance Improvement,Compliance Management System,"Governance, Legal & Integrity",Group-wide and all SBUs,Chief Compliance Officer
+Code of Conduct,Ethics & Integrity Compliance,"Governance, Legal & Integrity","All employees, directors and third parties",Chief Compliance Officer
+Business Ethics,Ethics & Integrity Compliance,"Governance, Legal & Integrity","All employees, directors and third parties",Chief Compliance Officer
+Conflict of Interest,Ethics & Integrity Compliance,"Governance, Legal & Integrity","All employees, directors and third parties",Chief Compliance Officer
+Gifts & Hospitality,Ethics & Integrity Compliance,"Governance, Legal & Integrity","All employees, directors and third parties",Chief Compliance Officer
+Donations,Ethics & Integrity Compliance,"Governance, Legal & Integrity","All employees, directors and third parties",Chief Compliance Officer
+Sponsorship,Ethics & Integrity Compliance,"Governance, Legal & Integrity","All employees, directors and third parties",Chief Compliance Officer
+Political Contributions,Ethics & Integrity Compliance,"Governance, Legal & Integrity","All employees, directors and third parties",Chief Compliance Officer
+Ethical Decision Making,Ethics & Integrity Compliance,"Governance, Legal & Integrity","All employees, directors and third parties",Chief Compliance Officer
+Ethical Reporting,Ethics & Integrity Compliance,"Governance, Legal & Integrity","All employees, directors and third parties",Chief Compliance Officer
+Integrity Declaration,Ethics & Integrity Compliance,"Governance, Legal & Integrity","All employees, directors and third parties",Chief Compliance Officer
+ISO 37001,Anti-Bribery Compliance,"Governance, Legal & Integrity","All SBUs, high-risk functions and third parties",Chief Compliance Officer
+Bribery Risk Assessment,Anti-Bribery Compliance,"Governance, Legal & Integrity","All SBUs, high-risk functions and third parties",Chief Compliance Officer
+Third Party Due Diligence,Anti-Bribery Compliance,"Governance, Legal & Integrity","All SBUs, high-risk functions and third parties",Chief Compliance Officer
+Facilitation Payments,Anti-Bribery Compliance,"Governance, Legal & Integrity","All SBUs, high-risk functions and third parties",Chief Compliance Officer
+Gifts Register,Anti-Bribery Compliance,"Governance, Legal & Integrity","All SBUs, high-risk functions and third parties",Chief Compliance Officer
+Hospitality Register,Anti-Bribery Compliance,"Governance, Legal & Integrity","All SBUs, high-risk functions and third parties",Chief Compliance Officer
+Anti-Corruption Controls,Anti-Bribery Compliance,"Governance, Legal & Integrity","All SBUs, high-risk functions and third parties",Chief Compliance Officer
+Financial Controls,Anti-Bribery Compliance,"Governance, Legal & Integrity","All SBUs, high-risk functions and third parties",Chief Compliance Officer
+Commercial Controls,Anti-Bribery Compliance,"Governance, Legal & Integrity","All SBUs, high-risk functions and third parties",Chief Compliance Officer
+ISO 37003,Fraud Control Compliance,"Governance, Legal & Integrity","All SBUs, processes and systems",Compliance / Internal Audit
+Fraud Risk Assessment,Fraud Control Compliance,"Governance, Legal & Integrity","All SBUs, processes and systems",Compliance / Internal Audit
+Fraud Register,Fraud Control Compliance,"Governance, Legal & Integrity","All SBUs, processes and systems",Compliance / Internal Audit
+Fraud Investigation,Fraud Control Compliance,"Governance, Legal & Integrity","All SBUs, processes and systems",Compliance / Internal Audit
+Fraud Monitoring,Fraud Control Compliance,"Governance, Legal & Integrity","All SBUs, processes and systems",Compliance / Internal Audit
+Payroll Fraud,Fraud Control Compliance,"Governance, Legal & Integrity","All SBUs, processes and systems",Compliance / Internal Audit
+Procurement Fraud,Fraud Control Compliance,"Governance, Legal & Integrity","All SBUs, processes and systems",Compliance / Internal Audit
+Financial Fraud,Fraud Control Compliance,"Governance, Legal & Integrity","All SBUs, processes and systems",Compliance / Internal Audit
+Asset Misappropriation,Fraud Control Compliance,"Governance, Legal & Integrity","All SBUs, processes and systems",Compliance / Internal Audit
+Expense Fraud,Fraud Control Compliance,"Governance, Legal & Integrity","All SBUs, processes and systems",Compliance / Internal Audit
+Cyber Fraud,Fraud Control Compliance,"Governance, Legal & Integrity","All SBUs, processes and systems",Compliance / Internal Audit
+ISO 37002,Whistleblowing Compliance,"Governance, Legal & Integrity","All employees, workers and external reporters",Chief Compliance Officer
+Speak-Up Program,Whistleblowing Compliance,"Governance, Legal & Integrity","All employees, workers and external reporters",Chief Compliance Officer
+Anonymous Reporting,Whistleblowing Compliance,"Governance, Legal & Integrity","All employees, workers and external reporters",Chief Compliance Officer
+Confidential Reporting,Whistleblowing Compliance,"Governance, Legal & Integrity","All employees, workers and external reporters",Chief Compliance Officer
+Reporter Protection,Whistleblowing Compliance,"Governance, Legal & Integrity","All employees, workers and external reporters",Chief Compliance Officer
+Retaliation Prevention,Whistleblowing Compliance,"Governance, Legal & Integrity","All employees, workers and external reporters",Chief Compliance Officer
+Case Investigation,Whistleblowing Compliance,"Governance, Legal & Integrity","All employees, workers and external reporters",Chief Compliance Officer
+Case Management,Whistleblowing Compliance,"Governance, Legal & Integrity","All employees, workers and external reporters",Chief Compliance Officer
+Corrective Actions,Whistleblowing Compliance,"Governance, Legal & Integrity","All employees, workers and external reporters",Chief Compliance Officer
+Labour Law,Human Resource Compliance,People & Human Rights,"All employees, workers, contractors and workplaces",Chief Human Resources Officer
+Employment Contract,Human Resource Compliance,People & Human Rights,"All employees, workers, contractors and workplaces",Chief Human Resources Officer
+Recruitment Compliance,Human Resource Compliance,People & Human Rights,"All employees, workers, contractors and workplaces",Chief Human Resources Officer
+Working Hours,Human Resource Compliance,People & Human Rights,"All employees, workers, contractors and workplaces",Chief Human Resources Officer
+Overtime,Human Resource Compliance,People & Human Rights,"All employees, workers, contractors and workplaces",Chief Human Resources Officer
+Leave Management,Human Resource Compliance,People & Human Rights,"All employees, workers, contractors and workplaces",Chief Human Resources Officer
+Payroll,Human Resource Compliance,People & Human Rights,"All employees, workers, contractors and workplaces",Chief Human Resources Officer
+Provident Fund,Human Resource Compliance,People & Human Rights,"All employees, workers, contractors and workplaces",Chief Human Resources Officer
+Gratuity,Human Resource Compliance,People & Human Rights,"All employees, workers, contractors and workplaces",Chief Human Resources Officer
+Equal Opportunity,Human Resource Compliance,People & Human Rights,"All employees, workers, contractors and workplaces",Chief Human Resources Officer
+Diversity & Inclusion,Human Resource Compliance,People & Human Rights,"All employees, workers, contractors and workplaces",Chief Human Resources Officer
+Anti-Harassment,Human Resource Compliance,People & Human Rights,"All employees, workers, contractors and workplaces",Chief Human Resources Officer
+Employee Discipline,Human Resource Compliance,People & Human Rights,"All employees, workers, contractors and workplaces",Chief Human Resources Officer
+Employee Welfare,Human Resource Compliance,People & Human Rights,"All employees, workers, contractors and workplaces",Chief Human Resources Officer
+Performance Management,Human Resource Compliance,People & Human Rights,"All employees, workers, contractors and workplaces",Chief Human Resources Officer
+Employee Exit,Human Resource Compliance,People & Human Rights,"All employees, workers, contractors and workplaces",Chief Human Resources Officer
+ISO 45001,Occupational Health & Safety,"HSE, Environment & Sustainability","All factories, sites, offices and projects",Head of HSE
+Workplace Safety,Occupational Health & Safety,"HSE, Environment & Sustainability","All factories, sites, offices and projects",Head of HSE
+PPE,Occupational Health & Safety,"HSE, Environment & Sustainability","All factories, sites, offices and projects",Head of HSE
+Permit to Work,Occupational Health & Safety,"HSE, Environment & Sustainability","All factories, sites, offices and projects",Head of HSE
+Lock Out Tag Out (LOTO),Occupational Health & Safety,"HSE, Environment & Sustainability","All factories, sites, offices and projects",Head of HSE
+Machine Safety,Occupational Health & Safety,"HSE, Environment & Sustainability","All factories, sites, offices and projects",Head of HSE
+Electrical Safety,Occupational Health & Safety,"HSE, Environment & Sustainability","All factories, sites, offices and projects",Head of HSE
+Fire Safety,Occupational Health & Safety,"HSE, Environment & Sustainability","All factories, sites, offices and projects",Head of HSE
+Emergency Response,Occupational Health & Safety,"HSE, Environment & Sustainability","All factories, sites, offices and projects",Head of HSE
+Incident Reporting,Occupational Health & Safety,"HSE, Environment & Sustainability","All factories, sites, offices and projects",Head of HSE
+Accident Investigation,Occupational Health & Safety,"HSE, Environment & Sustainability","All factories, sites, offices and projects",Head of HSE
+Occupational Health,Occupational Health & Safety,"HSE, Environment & Sustainability","All factories, sites, offices and projects",Head of HSE
+Medical Surveillance,Occupational Health & Safety,"HSE, Environment & Sustainability","All factories, sites, offices and projects",Head of HSE
+Contractor Safety,Occupational Health & Safety,"HSE, Environment & Sustainability","All factories, sites, offices and projects",Head of HSE
+Safety Training,Occupational Health & Safety,"HSE, Environment & Sustainability","All factories, sites, offices and projects",Head of HSE
+ISO 14001,Environmental Compliance,"HSE, Environment & Sustainability",All sites with environmental aspects or permits,Head of Environment / HSE
+Environmental Clearance,Environmental Compliance,"HSE, Environment & Sustainability",All sites with environmental aspects or permits,Head of Environment / HSE
+Air Emission,Environmental Compliance,"HSE, Environment & Sustainability",All sites with environmental aspects or permits,Head of Environment / HSE
+Water Discharge,Environmental Compliance,"HSE, Environment & Sustainability",All sites with environmental aspects or permits,Head of Environment / HSE
+Effluent Treatment,Environmental Compliance,"HSE, Environment & Sustainability",All sites with environmental aspects or permits,Head of Environment / HSE
+Hazardous Waste,Environmental Compliance,"HSE, Environment & Sustainability",All sites with environmental aspects or permits,Head of Environment / HSE
+Solid Waste,Environmental Compliance,"HSE, Environment & Sustainability",All sites with environmental aspects or permits,Head of Environment / HSE
+Chemical Management,Environmental Compliance,"HSE, Environment & Sustainability",All sites with environmental aspects or permits,Head of Environment / HSE
+Pollution Control,Environmental Compliance,"HSE, Environment & Sustainability",All sites with environmental aspects or permits,Head of Environment / HSE
+Biodiversity,Environmental Compliance,"HSE, Environment & Sustainability",All sites with environmental aspects or permits,Head of Environment / HSE
+Noise Control,Environmental Compliance,"HSE, Environment & Sustainability",All sites with environmental aspects or permits,Head of Environment / HSE
+Energy Management,Environmental Compliance,"HSE, Environment & Sustainability",All sites with environmental aspects or permits,Head of Environment / HSE
+Carbon Emission,Environmental Compliance,"HSE, Environment & Sustainability",All sites with environmental aspects or permits,Head of Environment / HSE
+Climate Compliance,Environmental Compliance,"HSE, Environment & Sustainability",All sites with environmental aspects or permits,Head of Environment / HSE
+ISO 9001,Quality Compliance,"Quality, Product & Customer","All product, service and manufacturing SBUs",Head of Quality
+Quality Management,Quality Compliance,"Quality, Product & Customer","All product, service and manufacturing SBUs",Head of Quality
+Inspection,Quality Compliance,"Quality, Product & Customer","All product, service and manufacturing SBUs",Head of Quality
+Testing,Quality Compliance,"Quality, Product & Customer","All product, service and manufacturing SBUs",Head of Quality
+Calibration,Quality Compliance,"Quality, Product & Customer","All product, service and manufacturing SBUs",Head of Quality
+Product Release,Quality Compliance,"Quality, Product & Customer","All product, service and manufacturing SBUs",Head of Quality
+Product Recall,Quality Compliance,"Quality, Product & Customer","All product, service and manufacturing SBUs",Head of Quality
+Customer Complaint,Quality Compliance,"Quality, Product & Customer","All product, service and manufacturing SBUs",Head of Quality
+Non-Conformance,Quality Compliance,"Quality, Product & Customer","All product, service and manufacturing SBUs",Head of Quality
+CAPA,Quality Compliance,"Quality, Product & Customer","All product, service and manufacturing SBUs",Head of Quality
+ISO 22000,Food Safety Compliance,"Quality, Product & Customer","Food, beverage, agriculture and cold-chain SBUs",Head of Food Safety / Quality
+HACCP,Food Safety Compliance,"Quality, Product & Customer","Food, beverage, agriculture and cold-chain SBUs",Head of Food Safety / Quality
+GMP,Food Safety Compliance,"Quality, Product & Customer","Food, beverage, agriculture and cold-chain SBUs",Head of Food Safety / Quality
+GHP,Food Safety Compliance,"Quality, Product & Customer","Food, beverage, agriculture and cold-chain SBUs",Head of Food Safety / Quality
+Food Hygiene,Food Safety Compliance,"Quality, Product & Customer","Food, beverage, agriculture and cold-chain SBUs",Head of Food Safety / Quality
+Food Traceability,Food Safety Compliance,"Quality, Product & Customer","Food, beverage, agriculture and cold-chain SBUs",Head of Food Safety / Quality
+Cold Chain,Food Safety Compliance,"Quality, Product & Customer","Food, beverage, agriculture and cold-chain SBUs",Head of Food Safety / Quality
+Food Labelling,Food Safety Compliance,"Quality, Product & Customer","Food, beverage, agriculture and cold-chain SBUs",Head of Food Safety / Quality
+Food Recall,Food Safety Compliance,"Quality, Product & Customer","Food, beverage, agriculture and cold-chain SBUs",Head of Food Safety / Quality
+ISO 27001,Information Security,"Technology, Data & Security","All information assets, systems and users",CISO / Head of IT
+Access Control,Information Security,"Technology, Data & Security","All information assets, systems and users",CISO / Head of IT
+Identity Management,Information Security,"Technology, Data & Security","All information assets, systems and users",CISO / Head of IT
+Password Policy,Information Security,"Technology, Data & Security","All information assets, systems and users",CISO / Head of IT
+Encryption,Information Security,"Technology, Data & Security","All information assets, systems and users",CISO / Head of IT
+Backup,Information Security,"Technology, Data & Security","All information assets, systems and users",CISO / Head of IT
+Patch Management,Information Security,"Technology, Data & Security","All information assets, systems and users",CISO / Head of IT
+Vulnerability Management,Information Security,"Technology, Data & Security","All information assets, systems and users",CISO / Head of IT
+Incident Response,Information Security,"Technology, Data & Security","All information assets, systems and users",CISO / Head of IT
+Security Awareness,Information Security,"Technology, Data & Security","All information assets, systems and users",CISO / Head of IT
+Asset Management,Information Security,"Technology, Data & Security","All information assets, systems and users",CISO / Head of IT
+NIST CSF,Cyber Security,"Technology, Data & Security",All digital infrastructure and connected operations,CISO / SOC Lead
+CIS Controls,Cyber Security,"Technology, Data & Security",All digital infrastructure and connected operations,CISO / SOC Lead
+Endpoint Security,Cyber Security,"Technology, Data & Security",All digital infrastructure and connected operations,CISO / SOC Lead
+Network Security,Cyber Security,"Technology, Data & Security",All digital infrastructure and connected operations,CISO / SOC Lead
+Cloud Security,Cyber Security,"Technology, Data & Security",All digital infrastructure and connected operations,CISO / SOC Lead
+Email Security,Cyber Security,"Technology, Data & Security",All digital infrastructure and connected operations,CISO / SOC Lead
+Threat Intelligence,Cyber Security,"Technology, Data & Security",All digital infrastructure and connected operations,CISO / SOC Lead
+Penetration Testing,Cyber Security,"Technology, Data & Security",All digital infrastructure and connected operations,CISO / SOC Lead
+Security Monitoring,Cyber Security,"Technology, Data & Security",All digital infrastructure and connected operations,CISO / SOC Lead
+Digital Forensics,Cyber Security,"Technology, Data & Security",All digital infrastructure and connected operations,CISO / SOC Lead
+GDPR,Privacy & Data Protection,"Technology, Data & Security",All personal-data processing and cross-border transfers,Data Protection Officer / Legal
+Personal Data Protection,Privacy & Data Protection,"Technology, Data & Security",All personal-data processing and cross-border transfers,Data Protection Officer / Legal
+Consent Management,Privacy & Data Protection,"Technology, Data & Security",All personal-data processing and cross-border transfers,Data Protection Officer / Legal
+Data Classification,Privacy & Data Protection,"Technology, Data & Security",All personal-data processing and cross-border transfers,Data Protection Officer / Legal
+Data Retention,Privacy & Data Protection,"Technology, Data & Security",All personal-data processing and cross-border transfers,Data Protection Officer / Legal
+Data Sharing,Privacy & Data Protection,"Technology, Data & Security",All personal-data processing and cross-border transfers,Data Protection Officer / Legal
+Cross Border Transfer,Privacy & Data Protection,"Technology, Data & Security",All personal-data processing and cross-border transfers,Data Protection Officer / Legal
+Privacy Impact Assessment,Privacy & Data Protection,"Technology, Data & Security",All personal-data processing and cross-border transfers,Data Protection Officer / Legal
+Data Breach Management,Privacy & Data Protection,"Technology, Data & Security",All personal-data processing and cross-border transfers,Data Protection Officer / Legal
+ISO 22301,Business Continuity,"Resilience, Security & Emergency","All critical processes, facilities and services",Business Continuity Manager
+Business Continuity Planning,Business Continuity,"Resilience, Security & Emergency","All critical processes, facilities and services",Business Continuity Manager
+Disaster Recovery,Business Continuity,"Resilience, Security & Emergency","All critical processes, facilities and services",Business Continuity Manager
+Crisis Management,Business Continuity,"Resilience, Security & Emergency","All critical processes, facilities and services",Business Continuity Manager
+Emergency Communication,Business Continuity,"Resilience, Security & Emergency","All critical processes, facilities and services",Business Continuity Manager
+Backup Testing,Business Continuity,"Resilience, Security & Emergency","All critical processes, facilities and services",Business Continuity Manager
+BCM Exercise,Business Continuity,"Resilience, Security & Emergency","All critical processes, facilities and services",Business Continuity Manager
+Procurement Policy,Procurement Compliance,"Supply Chain, Trade & Operations",All sourcing and purchase activities,Chief Procurement Officer
+Tender Management,Procurement Compliance,"Supply Chain, Trade & Operations",All sourcing and purchase activities,Chief Procurement Officer
+Bid Evaluation,Procurement Compliance,"Supply Chain, Trade & Operations",All sourcing and purchase activities,Chief Procurement Officer
+Purchase Approval,Procurement Compliance,"Supply Chain, Trade & Operations",All sourcing and purchase activities,Chief Procurement Officer
+Vendor Selection,Procurement Compliance,"Supply Chain, Trade & Operations",All sourcing and purchase activities,Chief Procurement Officer
+Procurement Ethics,Procurement Compliance,"Supply Chain, Trade & Operations",All sourcing and purchase activities,Chief Procurement Officer
+Contract Award,Procurement Compliance,"Supply Chain, Trade & Operations",All sourcing and purchase activities,Chief Procurement Officer
+Purchase Order Compliance,Procurement Compliance,"Supply Chain, Trade & Operations",All sourcing and purchase activities,Chief Procurement Officer
+Supplier Due Diligence,Third Party Compliance,"Supply Chain, Trade & Operations","Suppliers, vendors, agents, dealers, contractors and consultants",Procurement / Compliance
+Vendor Risk Assessment,Third Party Compliance,"Supply Chain, Trade & Operations","Suppliers, vendors, agents, dealers, contractors and consultants",Procurement / Compliance
+Distributor Assessment,Third Party Compliance,"Supply Chain, Trade & Operations","Suppliers, vendors, agents, dealers, contractors and consultants",Procurement / Compliance
+Agent Assessment,Third Party Compliance,"Supply Chain, Trade & Operations","Suppliers, vendors, agents, dealers, contractors and consultants",Procurement / Compliance
+Dealer Assessment,Third Party Compliance,"Supply Chain, Trade & Operations","Suppliers, vendors, agents, dealers, contractors and consultants",Procurement / Compliance
+Contractor Assessment,Third Party Compliance,"Supply Chain, Trade & Operations","Suppliers, vendors, agents, dealers, contractors and consultants",Procurement / Compliance
+Sanctions Screening,Third Party Compliance,"Supply Chain, Trade & Operations","Suppliers, vendors, agents, dealers, contractors and consultants",Procurement / Compliance
+PEP Screening,Third Party Compliance,"Supply Chain, Trade & Operations","Suppliers, vendors, agents, dealers, contractors and consultants",Procurement / Compliance
+ESG Assessment,Third Party Compliance,"Supply Chain, Trade & Operations","Suppliers, vendors, agents, dealers, contractors and consultants",Procurement / Compliance
+Supplier Code of Conduct,Supply Chain Compliance,"Supply Chain, Trade & Operations","All suppliers, sourcing channels and logistics partners",Chief Supply Chain Officer
+Responsible Sourcing,Supply Chain Compliance,"Supply Chain, Trade & Operations","All suppliers, sourcing channels and logistics partners",Chief Supply Chain Officer
+Human Rights,Supply Chain Compliance,"Supply Chain, Trade & Operations","All suppliers, sourcing channels and logistics partners",Chief Supply Chain Officer
+Child Labour,Supply Chain Compliance,"Supply Chain, Trade & Operations","All suppliers, sourcing channels and logistics partners",Chief Supply Chain Officer
+Forced Labour,Supply Chain Compliance,"Supply Chain, Trade & Operations","All suppliers, sourcing channels and logistics partners",Chief Supply Chain Officer
+Conflict Minerals,Supply Chain Compliance,"Supply Chain, Trade & Operations","All suppliers, sourcing channels and logistics partners",Chief Supply Chain Officer
+Supplier Audit,Supply Chain Compliance,"Supply Chain, Trade & Operations","All suppliers, sourcing channels and logistics partners",Chief Supply Chain Officer
+Traceability,Supply Chain Compliance,"Supply Chain, Trade & Operations","All suppliers, sourcing channels and logistics partners",Chief Supply Chain Officer
+Import Licence,Import Export Compliance,"Supply Chain, Trade & Operations",Importing and exporting SBUs,Head of Trade / Commercial
+Export Licence,Import Export Compliance,"Supply Chain, Trade & Operations",Importing and exporting SBUs,Head of Trade / Commercial
+Customs Clearance,Import Export Compliance,"Supply Chain, Trade & Operations",Importing and exporting SBUs,Head of Trade / Commercial
+Rules of Origin,Import Export Compliance,"Supply Chain, Trade & Operations",Importing and exporting SBUs,Head of Trade / Commercial
+HS Code,Import Export Compliance,"Supply Chain, Trade & Operations",Importing and exporting SBUs,Head of Trade / Commercial
+Export Control,Import Export Compliance,"Supply Chain, Trade & Operations",Importing and exporting SBUs,Head of Trade / Commercial
+Trade Sanctions,Import Export Compliance,"Supply Chain, Trade & Operations",Importing and exporting SBUs,Head of Trade / Commercial
+Shipping Documentation,Import Export Compliance,"Supply Chain, Trade & Operations",Importing and exporting SBUs,Head of Trade / Commercial
+Factory Licence,Manufacturing Compliance,"Engineering, Assets & Manufacturing",Factories and production facilities,Chief Operating Officer / Plant Head
+Boiler Inspection,Manufacturing Compliance,"Engineering, Assets & Manufacturing",Factories and production facilities,Chief Operating Officer / Plant Head
+Pressure Vessel Inspection,Manufacturing Compliance,"Engineering, Assets & Manufacturing",Factories and production facilities,Chief Operating Officer / Plant Head
+Machinery Inspection,Manufacturing Compliance,"Engineering, Assets & Manufacturing",Factories and production facilities,Chief Operating Officer / Plant Head
+Production Records,Manufacturing Compliance,"Engineering, Assets & Manufacturing",Factories and production facilities,Chief Operating Officer / Plant Head
+Calibration,Manufacturing Compliance,"Engineering, Assets & Manufacturing",Factories and production facilities,Chief Operating Officer / Plant Head
+Maintenance,Manufacturing Compliance,"Engineering, Assets & Manufacturing",Factories and production facilities,Chief Operating Officer / Plant Head
+Process Validation,Manufacturing Compliance,"Engineering, Assets & Manufacturing",Factories and production facilities,Chief Operating Officer / Plant Head
+Fleet Management,Logistics Compliance,"Supply Chain, Trade & Operations","Fleet, transport, warehousing and distribution operations",Head of Logistics
+Vehicle Fitness,Logistics Compliance,"Supply Chain, Trade & Operations","Fleet, transport, warehousing and distribution operations",Head of Logistics
+Driver Compliance,Logistics Compliance,"Supply Chain, Trade & Operations","Fleet, transport, warehousing and distribution operations",Head of Logistics
+Transportation Safety,Logistics Compliance,"Supply Chain, Trade & Operations","Fleet, transport, warehousing and distribution operations",Head of Logistics
+Dangerous Goods,Logistics Compliance,"Supply Chain, Trade & Operations","Fleet, transport, warehousing and distribution operations",Head of Logistics
+Warehouse Compliance,Logistics Compliance,"Supply Chain, Trade & Operations","Fleet, transport, warehousing and distribution operations",Head of Logistics
+Building Code,Real Estate & Infrastructure Compliance,"Projects, Property & Facilities","Land, buildings, construction and occupied premises",Head of Real Estate / Facilities
+Occupancy Certificate,Real Estate & Infrastructure Compliance,"Projects, Property & Facilities","Land, buildings, construction and occupied premises",Head of Real Estate / Facilities
+Structural Safety,Real Estate & Infrastructure Compliance,"Projects, Property & Facilities","Land, buildings, construction and occupied premises",Head of Real Estate / Facilities
+Electrical Inspection,Real Estate & Infrastructure Compliance,"Projects, Property & Facilities","Land, buildings, construction and occupied premises",Head of Real Estate / Facilities
+Lift Inspection,Real Estate & Infrastructure Compliance,"Projects, Property & Facilities","Land, buildings, construction and occupied premises",Head of Real Estate / Facilities
+Fire NOC,Real Estate & Infrastructure Compliance,"Projects, Property & Facilities","Land, buildings, construction and occupied premises",Head of Real Estate / Facilities
+Engineering Standards,Engineering Compliance,"Engineering, Assets & Manufacturing","Engineering design, maintenance, utilities and projects",Chief Engineer
+Mechanical Integrity,Engineering Compliance,"Engineering, Assets & Manufacturing","Engineering design, maintenance, utilities and projects",Chief Engineer
+Preventive Maintenance,Engineering Compliance,"Engineering, Assets & Manufacturing","Engineering design, maintenance, utilities and projects",Chief Engineer
+Asset Integrity,Engineering Compliance,"Engineering, Assets & Manufacturing","Engineering design, maintenance, utilities and projects",Chief Engineer
+Utilities Compliance,Engineering Compliance,"Engineering, Assets & Manufacturing","Engineering design, maintenance, utilities and projects",Chief Engineer
+Sustainability Reporting,ESG Compliance,"HSE, Environment & Sustainability","Group-wide; enhanced for financiers, buyers and exports",Head of Sustainability / ESG
+ESG Reporting,ESG Compliance,"HSE, Environment & Sustainability","Group-wide; enhanced for financiers, buyers and exports",Head of Sustainability / ESG
+Carbon Accounting,ESG Compliance,"HSE, Environment & Sustainability","Group-wide; enhanced for financiers, buyers and exports",Head of Sustainability / ESG
+Water Stewardship,ESG Compliance,"HSE, Environment & Sustainability","Group-wide; enhanced for financiers, buyers and exports",Head of Sustainability / ESG
+Human Rights Due Diligence,ESG Compliance,"HSE, Environment & Sustainability","Group-wide; enhanced for financiers, buyers and exports",Head of Sustainability / ESG
+Responsible Business Conduct,ESG Compliance,"HSE, Environment & Sustainability","Group-wide; enhanced for financiers, buyers and exports",Head of Sustainability / ESG
+Anti-Money Laundering,AML & Financial Crime,"Finance, Tax & Insurance","Financial services, high-risk payments, customers and counterparties",MLRO / Compliance
+Counter Terrorist Financing,AML & Financial Crime,"Finance, Tax & Insurance","Financial services, high-risk payments, customers and counterparties",MLRO / Compliance
+KYC,AML & Financial Crime,"Finance, Tax & Insurance","Financial services, high-risk payments, customers and counterparties",MLRO / Compliance
+Customer Due Diligence,AML & Financial Crime,"Finance, Tax & Insurance","Financial services, high-risk payments, customers and counterparties",MLRO / Compliance
+Enhanced Due Diligence,AML & Financial Crime,"Finance, Tax & Insurance","Financial services, high-risk payments, customers and counterparties",MLRO / Compliance
+Suspicious Transaction Reporting,AML & Financial Crime,"Finance, Tax & Insurance","Financial services, high-risk payments, customers and counterparties",MLRO / Compliance
+Asset Insurance,Insurance Compliance,"Finance, Tax & Insurance","Insurable assets, people, vehicles, cargo and liabilities",Risk / Finance / Insurance Manager
+Fire Insurance,Insurance Compliance,"Finance, Tax & Insurance","Insurable assets, people, vehicles, cargo and liabilities",Risk / Finance / Insurance Manager
+Marine Insurance,Insurance Compliance,"Finance, Tax & Insurance","Insurable assets, people, vehicles, cargo and liabilities",Risk / Finance / Insurance Manager
+Vehicle Insurance,Insurance Compliance,"Finance, Tax & Insurance","Insurable assets, people, vehicles, cargo and liabilities",Risk / Finance / Insurance Manager
+Employee Insurance,Insurance Compliance,"Finance, Tax & Insurance","Insurable assets, people, vehicles, cargo and liabilities",Risk / Finance / Insurance Manager
+Policy Renewal,Insurance Compliance,"Finance, Tax & Insurance","Insurable assets, people, vehicles, cargo and liabilities",Risk / Finance / Insurance Manager
+Access Control,Physical Security Compliance,"Resilience, Security & Emergency","All offices, factories, warehouses and projects",Head of Security
+Visitor Management,Physical Security Compliance,"Resilience, Security & Emergency","All offices, factories, warehouses and projects",Head of Security
+CCTV,Physical Security Compliance,"Resilience, Security & Emergency","All offices, factories, warehouses and projects",Head of Security
+Security Patrol,Physical Security Compliance,"Resilience, Security & Emergency","All offices, factories, warehouses and projects",Head of Security
+Warehouse Security,Physical Security Compliance,"Resilience, Security & Emergency","All offices, factories, warehouses and projects",Head of Security
+Key Management,Physical Security Compliance,"Resilience, Security & Emergency","All offices, factories, warehouses and projects",Head of Security
+COBIT,IT Governance,"Technology, Data & Security","All IT services, changes, assets and vendors",CIO / IT Governance Lead
+Change Management,IT Governance,"Technology, Data & Security","All IT services, changes, assets and vendors",CIO / IT Governance Lead
+Configuration Management,IT Governance,"Technology, Data & Security","All IT services, changes, assets and vendors",CIO / IT Governance Lead
+Software Asset Management,IT Governance,"Technology, Data & Security","All IT services, changes, assets and vendors",CIO / IT Governance Lead
+IT Vendor Management,IT Governance,"Technology, Data & Security","All IT services, changes, assets and vendors",CIO / IT Governance Lead
+IT Project Governance,IT Governance,"Technology, Data & Security","All IT services, changes, assets and vendors",CIO / IT Governance Lead
+AI Governance,Digital Governance,"Technology, Data & Security","Digital products, cloud, AI and electronic records",Chief Digital Officer / CIO
+Cloud Governance,Digital Governance,"Technology, Data & Security","Digital products, cloud, AI and electronic records",Chief Digital Officer / CIO
+Electronic Signature,Digital Governance,"Technology, Data & Security","Digital products, cloud, AI and electronic records",Chief Digital Officer / CIO
+Digital Records,Digital Governance,"Technology, Data & Security","Digital products, cloud, AI and electronic records",Chief Digital Officer / CIO
+Software Licensing,Digital Governance,"Technology, Data & Security","Digital products, cloud, AI and electronic records",Chief Digital Officer / CIO
+Document Control,Document & Record Management,"Governance, Legal & Integrity","All controlled documents, records and evidence",Records Manager / Quality
+Version Control,Document & Record Management,"Governance, Legal & Integrity","All controlled documents, records and evidence",Records Manager / Quality
+Record Retention,Document & Record Management,"Governance, Legal & Integrity","All controlled documents, records and evidence",Records Manager / Quality
+Archive Management,Document & Record Management,"Governance, Legal & Integrity","All controlled documents, records and evidence",Records Manager / Quality
+Document Disposal,Document & Record Management,"Governance, Legal & Integrity","All controlled documents, records and evidence",Records Manager / Quality
+Evidence Management,Document & Record Management,"Governance, Legal & Integrity","All controlled documents, records and evidence",Records Manager / Quality
+Consumer Protection,Customer & Market Compliance,"Quality, Product & Customer","Products, customers, pricing, advertising and markets",Chief Commercial Officer
+Product Safety,Customer & Market Compliance,"Quality, Product & Customer","Products, customers, pricing, advertising and markets",Chief Commercial Officer
+Advertising Compliance,Customer & Market Compliance,"Quality, Product & Customer","Products, customers, pricing, advertising and markets",Chief Commercial Officer
+Marketing Compliance,Customer & Market Compliance,"Quality, Product & Customer","Products, customers, pricing, advertising and markets",Chief Commercial Officer
+Pricing Compliance,Customer & Market Compliance,"Quality, Product & Customer","Products, customers, pricing, advertising and markets",Chief Commercial Officer
+Competition Law,Customer & Market Compliance,"Quality, Product & Customer","Products, customers, pricing, advertising and markets",Chief Commercial Officer
+BSCI,Buyer Compliance,"Quality, Product & Customer",Export and buyer-nominated supply chains,Commercial / Sustainability / Compliance
+Sedex SMETA,Buyer Compliance,"Quality, Product & Customer",Export and buyer-nominated supply chains,Commercial / Sustainability / Compliance
+WRAP,Buyer Compliance,"Quality, Product & Customer",Export and buyer-nominated supply chains,Commercial / Sustainability / Compliance
+Disney FAMA,Buyer Compliance,"Quality, Product & Customer",Export and buyer-nominated supply chains,Commercial / Sustainability / Compliance
+Higg Index,Buyer Compliance,"Quality, Product & Customer",Export and buyer-nominated supply chains,Commercial / Sustainability / Compliance
+Walmart Standards,Buyer Compliance,"Quality, Product & Customer",Export and buyer-nominated supply chains,Commercial / Sustainability / Compliance
+H&M Requirements,Buyer Compliance,"Quality, Product & Customer",Export and buyer-nominated supply chains,Commercial / Sustainability / Compliance
+IKEA IWAY,Buyer Compliance,"Quality, Product & Customer",Export and buyer-nominated supply chains,Commercial / Sustainability / Compliance
+Nike Code,Buyer Compliance,"Quality, Product & Customer",Export and buyer-nominated supply chains,Commercial / Sustainability / Compliance
+Adidas Standards,Buyer Compliance,"Quality, Product & Customer",Export and buyer-nominated supply chains,Commercial / Sustainability / Compliance
+ISO 9001,Industry Certification Compliance,"Quality, Product & Customer",According to SBU certifications and customer requirements,Management Systems / Quality
+ISO 14001,Industry Certification Compliance,"Quality, Product & Customer",According to SBU certifications and customer requirements,Management Systems / Quality
+ISO 45001,Industry Certification Compliance,"Quality, Product & Customer",According to SBU certifications and customer requirements,Management Systems / Quality
+ISO 27001,Industry Certification Compliance,"Quality, Product & Customer",According to SBU certifications and customer requirements,Management Systems / Quality
+ISO 37301,Industry Certification Compliance,"Quality, Product & Customer",According to SBU certifications and customer requirements,Management Systems / Quality
+ISO 37001,Industry Certification Compliance,"Quality, Product & Customer",According to SBU certifications and customer requirements,Management Systems / Quality
+ISO 37002,Industry Certification Compliance,"Quality, Product & Customer",According to SBU certifications and customer requirements,Management Systems / Quality
+ISO 37003,Industry Certification Compliance,"Quality, Product & Customer",According to SBU certifications and customer requirements,Management Systems / Quality
+ISO 22000,Industry Certification Compliance,"Quality, Product & Customer",According to SBU certifications and customer requirements,Management Systems / Quality
+FSC,Industry Certification Compliance,"Quality, Product & Customer",According to SBU certifications and customer requirements,Management Systems / Quality
+PEFC,Industry Certification Compliance,"Quality, Product & Customer",According to SBU certifications and customer requirements,Management Systems / Quality
+LEED,Industry Certification Compliance,"Quality, Product & Customer",According to SBU certifications and customer requirements,Management Systems / Quality
+SA8000,Industry Certification Compliance,"Quality, Product & Customer",According to SBU certifications and customer requirements,Management Systems / Quality
+SOP Compliance,Operational Compliance,"Supply Chain, Trade & Operations",All operational processes and sites,Chief Operating Officer
+Work Instruction Compliance,Operational Compliance,"Supply Chain, Trade & Operations",All operational processes and sites,Chief Operating Officer
+Process Compliance,Operational Compliance,"Supply Chain, Trade & Operations",All operational processes and sites,Chief Operating Officer
+Production Compliance,Operational Compliance,"Supply Chain, Trade & Operations",All operational processes and sites,Chief Operating Officer
+Maintenance Compliance,Operational Compliance,"Supply Chain, Trade & Operations",All operational processes and sites,Chief Operating Officer
+Shift Compliance,Operational Compliance,"Supply Chain, Trade & Operations",All operational processes and sites,Chief Operating Officer
+Operational Readiness,Operational Compliance,"Supply Chain, Trade & Operations",All operational processes and sites,Chief Operating Officer
+HR Policy,Internal Policy Compliance,"Governance, Legal & Integrity",All functions and employees,Policy Owners / Compliance
+Finance Policy,Internal Policy Compliance,"Governance, Legal & Integrity",All functions and employees,Policy Owners / Compliance
+Procurement Policy,Internal Policy Compliance,"Governance, Legal & Integrity",All functions and employees,Policy Owners / Compliance
+IT Policy,Internal Policy Compliance,"Governance, Legal & Integrity",All functions and employees,Policy Owners / Compliance
+HSE Policy,Internal Policy Compliance,"Governance, Legal & Integrity",All functions and employees,Policy Owners / Compliance
+Security Policy,Internal Policy Compliance,"Governance, Legal & Integrity",All functions and employees,Policy Owners / Compliance
+Travel Policy,Internal Policy Compliance,"Governance, Legal & Integrity",All functions and employees,Policy Owners / Compliance
+Vehicle Policy,Internal Policy Compliance,"Governance, Legal & Integrity",All functions and employees,Policy Owners / Compliance
+Asset Policy,Internal Policy Compliance,"Governance, Legal & Integrity",All functions and employees,Policy Owners / Compliance
+Ethics Policy,Internal Policy Compliance,"Governance, Legal & Integrity",All functions and employees,Policy Owners / Compliance
+Compliance Policy,Internal Policy Compliance,"Governance, Legal & Integrity",All functions and employees,Policy Owners / Compliance
+Internal Audit,Audit & Assurance,"Governance, Legal & Integrity","All SBUs, systems and assurance providers",Chief Audit Executive
+External Audit,Audit & Assurance,"Governance, Legal & Integrity","All SBUs, systems and assurance providers",Chief Audit Executive
+Certification Audit,Audit & Assurance,"Governance, Legal & Integrity","All SBUs, systems and assurance providers",Chief Audit Executive
+Regulatory Inspection,Audit & Assurance,"Governance, Legal & Integrity","All SBUs, systems and assurance providers",Chief Audit Executive
+Compliance Review,Audit & Assurance,"Governance, Legal & Integrity","All SBUs, systems and assurance providers",Chief Audit Executive
+CAPA,Audit & Assurance,"Governance, Legal & Integrity","All SBUs, systems and assurance providers",Chief Audit Executive
+Root Cause Analysis,Audit & Assurance,"Governance, Legal & Integrity","All SBUs, systems and assurance providers",Chief Audit Executive
+Management Review,Audit & Assurance,"Governance, Legal & Integrity","All SBUs, systems and assurance providers",Chief Audit Executive
+Research Ethics,Research & Innovation Compliance,"Quality, Product & Customer","Research, laboratories and new product development",R&D / Innovation Lead
+Product Development Compliance,Research & Innovation Compliance,"Quality, Product & Customer","Research, laboratories and new product development",R&D / Innovation Lead
+Laboratory Compliance,Research & Innovation Compliance,"Quality, Product & Customer","Research, laboratories and new product development",R&D / Innovation Lead
+Testing Compliance,Research & Innovation Compliance,"Quality, Product & Customer","Research, laboratories and new product development",R&D / Innovation Lead
+Innovation Governance,Research & Innovation Compliance,"Quality, Product & Customer","Research, laboratories and new product development",R&D / Innovation Lead
+Project Governance,Project Compliance,"Projects, Property & Facilities","Capital, construction, digital and transformation projects",PMO / Project Director
+Project Controls,Project Compliance,"Projects, Property & Facilities","Capital, construction, digital and transformation projects",PMO / Project Director
+Contractor Compliance,Project Compliance,"Projects, Property & Facilities","Capital, construction, digital and transformation projects",PMO / Project Director
+Construction Safety,Project Compliance,"Projects, Property & Facilities","Capital, construction, digital and transformation projects",PMO / Project Director
+Project Risk,Project Compliance,"Projects, Property & Facilities","Capital, construction, digital and transformation projects",PMO / Project Director
+Circular Economy,Sustainability Compliance,"HSE, Environment & Sustainability",Group-wide and all material operational footprints,Head of Sustainability
+Waste Reduction,Sustainability Compliance,"HSE, Environment & Sustainability",Group-wide and all material operational footprints,Head of Sustainability
+Renewable Energy,Sustainability Compliance,"HSE, Environment & Sustainability",Group-wide and all material operational footprints,Head of Sustainability
+Net Zero Programs,Sustainability Compliance,"HSE, Environment & Sustainability",Group-wide and all material operational footprints,Head of Sustainability
+Sustainable Procurement,Sustainability Compliance,"HSE, Environment & Sustainability",Group-wide and all material operational footprints,Head of Sustainability
+Cement Industry Compliance,Sector Specific Compliance,Sector-Specific & Regulated Activities,Only the SBU or activity named,SBU Head / Legal / Compliance
+Steel Industry Compliance,Sector Specific Compliance,Sector-Specific & Regulated Activities,Only the SBU or activity named,SBU Head / Legal / Compliance
+Textile Compliance,Sector Specific Compliance,Sector-Specific & Regulated Activities,Only the SBU or activity named,SBU Head / Legal / Compliance
+Jute Compliance,Sector Specific Compliance,Sector-Specific & Regulated Activities,Only the SBU or activity named,SBU Head / Legal / Compliance
+Packaging Compliance,Sector Specific Compliance,Sector-Specific & Regulated Activities,Only the SBU or activity named,SBU Head / Legal / Compliance
+Consumer Goods Compliance,Sector Specific Compliance,Sector-Specific & Regulated Activities,Only the SBU or activity named,SBU Head / Legal / Compliance
+Printing Compliance,Sector Specific Compliance,Sector-Specific & Regulated Activities,Only the SBU or activity named,SBU Head / Legal / Compliance
+Logistics Compliance,Sector Specific Compliance,Sector-Specific & Regulated Activities,Only the SBU or activity named,SBU Head / Legal / Compliance
+Real Estate Compliance,Sector Specific Compliance,Sector-Specific & Regulated Activities,Only the SBU or activity named,SBU Head / Legal / Compliance
+Agriculture Compliance,Sector Specific Compliance,Sector-Specific & Regulated Activities,Only the SBU or activity named,SBU Head / Legal / Compliance
+Food Processing Compliance,Sector Specific Compliance,Sector-Specific & Regulated Activities,Only the SBU or activity named,SBU Head / Legal / Compliance
+Fisheries Compliance,Sector Specific Compliance,Sector-Specific & Regulated Activities,Only the SBU or activity named,SBU Head / Legal / Compliance
+Healthcare Compliance,Sector Specific Compliance,Sector-Specific & Regulated Activities,Only the SBU or activity named,SBU Head / Legal / Compliance
+Hospitality Compliance,Sector Specific Compliance,Sector-Specific & Regulated Activities,Only the SBU or activity named,SBU Head / Legal / Compliance
+Education Compliance,Sector Specific Compliance,Sector-Specific & Regulated Activities,Only the SBU or activity named,SBU Head / Legal / Compliance
+Digital Services Compliance,Sector Specific Compliance,Sector-Specific & Regulated Activities,Only the SBU or activity named,SBU Head / Legal / Compliance
+Competition Law,Competition & Antitrust Compliance,"Governance, Legal & Integrity","All pricing, sales, tenders, partnerships and market conduct",Legal / Commercial / Compliance
+Anti-Trust,Competition & Antitrust Compliance,"Governance, Legal & Integrity","All pricing, sales, tenders, partnerships and market conduct",Legal / Commercial / Compliance
+Abuse of Dominant Position,Competition & Antitrust Compliance,"Governance, Legal & Integrity","All pricing, sales, tenders, partnerships and market conduct",Legal / Commercial / Compliance
+Price Fixing,Competition & Antitrust Compliance,"Governance, Legal & Integrity","All pricing, sales, tenders, partnerships and market conduct",Legal / Commercial / Compliance
+Bid Rigging,Competition & Antitrust Compliance,"Governance, Legal & Integrity","All pricing, sales, tenders, partnerships and market conduct",Legal / Commercial / Compliance
+Market Allocation,Competition & Antitrust Compliance,"Governance, Legal & Integrity","All pricing, sales, tenders, partnerships and market conduct",Legal / Commercial / Compliance
+Cartel Prevention,Competition & Antitrust Compliance,"Governance, Legal & Integrity","All pricing, sales, tenders, partnerships and market conduct",Legal / Commercial / Compliance
+Fair Competition,Competition & Antitrust Compliance,"Governance, Legal & Integrity","All pricing, sales, tenders, partnerships and market conduct",Legal / Commercial / Compliance
+Export Control,Trade Compliance,"Supply Chain, Trade & Operations","Cross-border goods, technology, payments and counterparties",Head of Trade Compliance
+Import Control,Trade Compliance,"Supply Chain, Trade & Operations","Cross-border goods, technology, payments and counterparties",Head of Trade Compliance
+Strategic Goods,Trade Compliance,"Supply Chain, Trade & Operations","Cross-border goods, technology, payments and counterparties",Head of Trade Compliance
+Sanctions,Trade Compliance,"Supply Chain, Trade & Operations","Cross-border goods, technology, payments and counterparties",Head of Trade Compliance
+Embargo,Trade Compliance,"Supply Chain, Trade & Operations","Cross-border goods, technology, payments and counterparties",Head of Trade Compliance
+Customs Security,Trade Compliance,"Supply Chain, Trade & Operations","Cross-border goods, technology, payments and counterparties",Head of Trade Compliance
+Trade Agreements,Trade Compliance,"Supply Chain, Trade & Operations","Cross-border goods, technology, payments and counterparties",Head of Trade Compliance
+Dual Use Goods,Trade Compliance,"Supply Chain, Trade & Operations","Cross-border goods, technology, payments and counterparties",Head of Trade Compliance
+Product Safety,Product Compliance,"Quality, Product & Customer","Manufactured, imported, exported and private-label products",Product Compliance / Quality
+Product Stewardship,Product Compliance,"Quality, Product & Customer","Manufactured, imported, exported and private-label products",Product Compliance / Quality
+Product Registration,Product Compliance,"Quality, Product & Customer","Manufactured, imported, exported and private-label products",Product Compliance / Quality
+Product Labelling,Product Compliance,"Quality, Product & Customer","Manufactured, imported, exported and private-label products",Product Compliance / Quality
+CE Marking,Product Compliance,"Quality, Product & Customer","Manufactured, imported, exported and private-label products",Product Compliance / Quality
+REACH,Product Compliance,"Quality, Product & Customer","Manufactured, imported, exported and private-label products",Product Compliance / Quality
+RoHS,Product Compliance,"Quality, Product & Customer","Manufactured, imported, exported and private-label products",Product Compliance / Quality
+Product Recall,Product Compliance,"Quality, Product & Customer","Manufactured, imported, exported and private-label products",Product Compliance / Quality
+Chemical Inventory,Chemical Compliance,"HSE, Environment & Sustainability","Sites importing, storing, using or disposing chemicals",HSE / Chemical Safety Lead
+SDS Management,Chemical Compliance,"HSE, Environment & Sustainability","Sites importing, storing, using or disposing chemicals",HSE / Chemical Safety Lead
+GHS,Chemical Compliance,"HSE, Environment & Sustainability","Sites importing, storing, using or disposing chemicals",HSE / Chemical Safety Lead
+REACH,Chemical Compliance,"HSE, Environment & Sustainability","Sites importing, storing, using or disposing chemicals",HSE / Chemical Safety Lead
+CLP,Chemical Compliance,"HSE, Environment & Sustainability","Sites importing, storing, using or disposing chemicals",HSE / Chemical Safety Lead
+Hazard Communication,Chemical Compliance,"HSE, Environment & Sustainability","Sites importing, storing, using or disposing chemicals",HSE / Chemical Safety Lead
+Chemical Storage,Chemical Compliance,"HSE, Environment & Sustainability","Sites importing, storing, using or disposing chemicals",HSE / Chemical Safety Lead
+Chemical Disposal,Chemical Compliance,"HSE, Environment & Sustainability","Sites importing, storing, using or disposing chemicals",HSE / Chemical Safety Lead
+Pressure Equipment,Asset Integrity Compliance,"Engineering, Assets & Manufacturing","Plants, pipelines, tanks and structural assets",Asset Integrity Manager
+Pipeline Integrity,Asset Integrity Compliance,"Engineering, Assets & Manufacturing","Plants, pipelines, tanks and structural assets",Asset Integrity Manager
+Tank Integrity,Asset Integrity Compliance,"Engineering, Assets & Manufacturing","Plants, pipelines, tanks and structural assets",Asset Integrity Manager
+Mechanical Integrity,Asset Integrity Compliance,"Engineering, Assets & Manufacturing","Plants, pipelines, tanks and structural assets",Asset Integrity Manager
+Corrosion Management,Asset Integrity Compliance,"Engineering, Assets & Manufacturing","Plants, pipelines, tanks and structural assets",Asset Integrity Manager
+Structural Inspection,Asset Integrity Compliance,"Engineering, Assets & Manufacturing","Plants, pipelines, tanks and structural assets",Asset Integrity Manager
+HAZOP,Process Safety Management,"Engineering, Assets & Manufacturing",High-hazard processes and major accident risk sites,Process Safety Manager
+LOPA,Process Safety Management,"Engineering, Assets & Manufacturing",High-hazard processes and major accident risk sites,Process Safety Manager
+SIL,Process Safety Management,"Engineering, Assets & Manufacturing",High-hazard processes and major accident risk sites,Process Safety Manager
+MOC,Process Safety Management,"Engineering, Assets & Manufacturing",High-hazard processes and major accident risk sites,Process Safety Manager
+Process Hazard Analysis,Process Safety Management,"Engineering, Assets & Manufacturing",High-hazard processes and major accident risk sites,Process Safety Manager
+Explosion Protection,Process Safety Management,"Engineering, Assets & Manufacturing",High-hazard processes and major accident risk sites,Process Safety Manager
+Reliability Centered Maintenance,Reliability Compliance,"Engineering, Assets & Manufacturing",Critical production and utility assets,Reliability / Maintenance Manager
+Predictive Maintenance,Reliability Compliance,"Engineering, Assets & Manufacturing",Critical production and utility assets,Reliability / Maintenance Manager
+Preventive Maintenance,Reliability Compliance,"Engineering, Assets & Manufacturing",Critical production and utility assets,Reliability / Maintenance Manager
+Asset Health Monitoring,Reliability Compliance,"Engineering, Assets & Manufacturing",Critical production and utility assets,Reliability / Maintenance Manager
+ISO 50001,Energy Compliance,"HSE, Environment & Sustainability",Energy-intensive sites and regulated utilities,Energy Manager / Utilities Head
+Energy Efficiency,Energy Compliance,"HSE, Environment & Sustainability",Energy-intensive sites and regulated utilities,Energy Manager / Utilities Head
+Energy Audit,Energy Compliance,"HSE, Environment & Sustainability",Energy-intensive sites and regulated utilities,Energy Manager / Utilities Head
+Utility Management,Energy Compliance,"HSE, Environment & Sustainability",Energy-intensive sites and regulated utilities,Energy Manager / Utilities Head
+Power Quality,Energy Compliance,"HSE, Environment & Sustainability",Energy-intensive sites and regulated utilities,Energy Manager / Utilities Head
+ISO/IEC 17025,Laboratory Compliance,"Quality, Product & Customer","Testing, calibration and research laboratories",Laboratory Manager / Quality
+Calibration,Laboratory Compliance,"Quality, Product & Customer","Testing, calibration and research laboratories",Laboratory Manager / Quality
+Validation,Laboratory Compliance,"Quality, Product & Customer","Testing, calibration and research laboratories",Laboratory Manager / Quality
+Measurement Uncertainty,Laboratory Compliance,"Quality, Product & Customer","Testing, calibration and research laboratories",Laboratory Manager / Quality
+Sample Management,Laboratory Compliance,"Quality, Product & Customer","Testing, calibration and research laboratories",Laboratory Manager / Quality
+Instrument Calibration,Metrology Compliance,"Quality, Product & Customer",Measurement equipment and product quantity claims,Metrology / Quality Manager
+Calibration Interval,Metrology Compliance,"Quality, Product & Customer",Measurement equipment and product quantity claims,Metrology / Quality Manager
+Traceability,Metrology Compliance,"Quality, Product & Customer",Measurement equipment and product quantity claims,Metrology / Quality Manager
+Master Equipment,Metrology Compliance,"Quality, Product & Customer",Measurement equipment and product quantity claims,Metrology / Quality Manager
+Packaging Waste,Packaging Compliance,"Quality, Product & Customer","Packaged goods, export products and packaging materials",Packaging / Product Compliance
+Plastic Compliance,Packaging Compliance,"Quality, Product & Customer","Packaged goods, export products and packaging materials",Packaging / Product Compliance
+Recycling,Packaging Compliance,"Quality, Product & Customer","Packaged goods, export products and packaging materials",Packaging / Product Compliance
+Packaging Labelling,Packaging Compliance,"Quality, Product & Customer","Packaged goods, export products and packaging materials",Packaging / Product Compliance
+Sustainable Packaging,Packaging Compliance,"Quality, Product & Customer","Packaged goods, export products and packaging materials",Packaging / Product Compliance
+Consumer Complaints,Consumer Affairs Compliance,"Quality, Product & Customer",Consumer-facing products and services,Customer Service / Legal
+Warranty,Consumer Affairs Compliance,"Quality, Product & Customer",Consumer-facing products and services,Customer Service / Legal
+Product Claims,Consumer Affairs Compliance,"Quality, Product & Customer",Consumer-facing products and services,Customer Service / Legal
+Advertising,Consumer Affairs Compliance,"Quality, Product & Customer",Consumer-facing products and services,Customer Service / Legal
+Customer Communication,Consumer Affairs Compliance,"Quality, Product & Customer",Consumer-facing products and services,Customer Service / Legal
+Advertising Law,Marketing Compliance,"Quality, Product & Customer","Advertising, promotion, digital and social campaigns",Chief Marketing Officer / Legal
+Digital Marketing,Marketing Compliance,"Quality, Product & Customer","Advertising, promotion, digital and social campaigns",Chief Marketing Officer / Legal
+Promotional Campaigns,Marketing Compliance,"Quality, Product & Customer","Advertising, promotion, digital and social campaigns",Chief Marketing Officer / Legal
+Social Media Compliance,Marketing Compliance,"Quality, Product & Customer","Advertising, promotion, digital and social campaigns",Chief Marketing Officer / Legal
+Brand Usage,Marketing Compliance,"Quality, Product & Customer","Advertising, promotion, digital and social campaigns",Chief Marketing Officer / Legal
+Dealer Compliance,Sales Compliance,"Quality, Product & Customer","Direct, dealer and distributor sales channels",Sales Director / Compliance
+Sales Incentives,Sales Compliance,"Quality, Product & Customer","Direct, dealer and distributor sales channels",Sales Director / Compliance
+Distribution Agreements,Sales Compliance,"Quality, Product & Customer","Direct, dealer and distributor sales channels",Sales Director / Compliance
+Customer Due Diligence,Sales Compliance,"Quality, Product & Customer","Direct, dealer and distributor sales channels",Sales Director / Compliance
+Letter of Credit,Export Customer Compliance,"Supply Chain, Trade & Operations",Export transactions and customer-specific documentation,Export / Commercial Head
+INCOTERMS,Export Customer Compliance,"Supply Chain, Trade & Operations",Export transactions and customer-specific documentation,Export / Commercial Head
+Shipping Documentation,Export Customer Compliance,"Supply Chain, Trade & Operations",Export transactions and customer-specific documentation,Export / Commercial Head
+Country Restrictions,Export Customer Compliance,"Supply Chain, Trade & Operations",Export transactions and customer-specific documentation,Export / Commercial Head
+Tender Integrity,Procurement Integrity,"Governance, Legal & Integrity","Tenders, supplier selection and awards",Procurement / Compliance
+Conflict of Interest,Procurement Integrity,"Governance, Legal & Integrity","Tenders, supplier selection and awards",Procurement / Compliance
+Bid Confidentiality,Procurement Integrity,"Governance, Legal & Integrity","Tenders, supplier selection and awards",Procurement / Compliance
+Supplier Ethics,Procurement Integrity,"Governance, Legal & Integrity","Tenders, supplier selection and awards",Procurement / Compliance
+Contract Review,Contract Management Compliance,"Governance, Legal & Integrity",All material contracts and commitments,Legal / Contract Manager
+Renewal,Contract Management Compliance,"Governance, Legal & Integrity",All material contracts and commitments,Legal / Contract Manager
+Performance Monitoring,Contract Management Compliance,"Governance, Legal & Integrity",All material contracts and commitments,Legal / Contract Manager
+Contract Repository,Contract Management Compliance,"Governance, Legal & Integrity",All material contracts and commitments,Legal / Contract Manager
+ISO 15489,Records Management,"Governance, Legal & Integrity",All business records and litigation holds,Records Manager / Legal
+Retention Schedule,Records Management,"Governance, Legal & Integrity",All business records and litigation holds,Records Manager / Legal
+Legal Hold,Records Management,"Governance, Legal & Integrity",All business records and litigation holds,Records Manager / Legal
+Archiving,Records Management,"Governance, Legal & Integrity",All business records and litigation holds,Records Manager / Legal
+AI Governance,Artificial Intelligence Compliance,"Technology, Data & Security","AI systems, vendors, models and automated decisions",AI Governance Lead / Legal / Risk
+AI Ethics,Artificial Intelligence Compliance,"Technology, Data & Security","AI systems, vendors, models and automated decisions",AI Governance Lead / Legal / Risk
+AI Risk,Artificial Intelligence Compliance,"Technology, Data & Security","AI systems, vendors, models and automated decisions",AI Governance Lead / Legal / Risk
+Algorithm Transparency,Artificial Intelligence Compliance,"Technology, Data & Security","AI systems, vendors, models and automated decisions",AI Governance Lead / Legal / Risk
+Human Oversight,Artificial Intelligence Compliance,"Technology, Data & Security","AI systems, vendors, models and automated decisions",AI Governance Lead / Legal / Risk
+Cloud Security,Cloud Compliance,"Technology, Data & Security","Cloud services, hosted data and outsourced infrastructure",Cloud Security Lead / CISO
+Shared Responsibility,Cloud Compliance,"Technology, Data & Security","Cloud services, hosted data and outsourced infrastructure",Cloud Security Lead / CISO
+Cloud Risk Assessment,Cloud Compliance,"Technology, Data & Security","Cloud services, hosted data and outsourced infrastructure",Cloud Security Lead / CISO
+Open Source Compliance,Software Compliance,"Technology, Data & Security","Purchased, developed and open-source software",CIO / Software Asset Manager
+License Management,Software Compliance,"Technology, Data & Security","Purchased, developed and open-source software",CIO / Software Asset Manager
+Software Inventory,Software Compliance,"Technology, Data & Security","Purchased, developed and open-source software",CIO / Software Asset Manager
+Digital Projects,Digital Transformation Governance,"Technology, Data & Security","Digital programmes, architecture, data and change",Chief Digital Officer / Transformation Office
+Data Governance,Digital Transformation Governance,"Technology, Data & Security","Digital programmes, architecture, data and change",Chief Digital Officer / Transformation Office
+Digital Risk,Digital Transformation Governance,"Technology, Data & Security","Digital programmes, architecture, data and change",Chief Digital Officer / Transformation Office
+Digital Architecture,Digital Transformation Governance,"Technology, Data & Security","Digital programmes, architecture, data and change",Chief Digital Officer / Transformation Office
+Supply Chain ESG,ESG Due Diligence,"HSE, Environment & Sustainability","Suppliers, investments, acquisitions and major projects",Sustainability / Procurement / Compliance
+Human Rights,ESG Due Diligence,"HSE, Environment & Sustainability","Suppliers, investments, acquisitions and major projects",Sustainability / Procurement / Compliance
+Climate Risk,ESG Due Diligence,"HSE, Environment & Sustainability","Suppliers, investments, acquisitions and major projects",Sustainability / Procurement / Compliance
+Social Performance,ESG Due Diligence,"HSE, Environment & Sustainability","Suppliers, investments, acquisitions and major projects",Sustainability / Procurement / Compliance
+UN Guiding Principles,Human Rights Compliance,People & Human Rights,"Workforce, communities, security and supply chain",HR / Sustainability / Compliance
+Modern Slavery,Human Rights Compliance,People & Human Rights,"Workforce, communities, security and supply chain",HR / Sustainability / Compliance
+Child Labour,Human Rights Compliance,People & Human Rights,"Workforce, communities, security and supply chain",HR / Sustainability / Compliance
+Indigenous Rights,Human Rights Compliance,People & Human Rights,"Workforce, communities, security and supply chain",HR / Sustainability / Compliance
+Equal Pay,Diversity Equity & Inclusion,People & Human Rights,All employment and workplace practices,Chief Human Resources Officer
+Accessibility,Diversity Equity & Inclusion,People & Human Rights,All employment and workplace practices,Chief Human Resources Officer
+Gender Equality,Diversity Equity & Inclusion,People & Human Rights,All employment and workplace practices,Chief Human Resources Officer
+Non-Discrimination,Diversity Equity & Inclusion,People & Human Rights,All employment and workplace practices,Chief Human Resources Officer
+Crisis Response,Crisis Management,"Resilience, Security & Emergency","All material operational, reputation and safety crises",Crisis Management Team / BCM
+Emergency Communications,Crisis Management,"Resilience, Security & Emergency","All material operational, reputation and safety crises",Crisis Management Team / BCM
+Crisis Simulation,Crisis Management,"Resilience, Security & Emergency","All material operational, reputation and safety crises",Crisis Management Team / BCM
+Fire Drill,Emergency Preparedness,"Resilience, Security & Emergency",All workplaces and public-facing facilities,HSE / Site Management
+Evacuation,Emergency Preparedness,"Resilience, Security & Emergency",All workplaces and public-facing facilities,HSE / Site Management
+First Aid,Emergency Preparedness,"Resilience, Security & Emergency",All workplaces and public-facing facilities,HSE / Site Management
+Rescue,Emergency Preparedness,"Resilience, Security & Emergency",All workplaces and public-facing facilities,HSE / Site Management
+Perimeter Security,Physical Asset Security,"Resilience, Security & Emergency","All premises, warehouses, plants and critical assets",Head of Security
+Access Badges,Physical Asset Security,"Resilience, Security & Emergency","All premises, warehouses, plants and critical assets",Head of Security
+CCTV Monitoring,Physical Asset Security,"Resilience, Security & Emergency","All premises, warehouses, plants and critical assets",Head of Security
+Visitor Screening,Physical Asset Security,"Resilience, Security & Emergency","All premises, warehouses, plants and critical assets",Head of Security
+Business Travel,Travel & Mobility Compliance,People & Human Rights,"Business travel, expatriates and international assignments",HR / Travel / Security
+Immigration,Travel & Mobility Compliance,People & Human Rights,"Business travel, expatriates and international assignments",HR / Travel / Security
+Visa Compliance,Travel & Mobility Compliance,People & Human Rights,"Business travel, expatriates and international assignments",HR / Travel / Security
+International Assignment,Travel & Mobility Compliance,People & Human Rights,"Business travel, expatriates and international assignments",HR / Travel / Security
+Vehicle Inspection,Fleet Compliance,"Supply Chain, Trade & Operations",Company and contractor vehicles and drivers,Fleet Manager
+GPS Monitoring,Fleet Compliance,"Supply Chain, Trade & Operations",Company and contractor vehicles and drivers,Fleet Manager
+Driver Safety,Fleet Compliance,"Supply Chain, Trade & Operations",Company and contractor vehicles and drivers,Fleet Manager
+Fuel Monitoring,Fleet Compliance,"Supply Chain, Trade & Operations",Company and contractor vehicles and drivers,Fleet Manager
+GRI,Sustainability Reporting,"HSE, Environment & Sustainability",Group and entities with stakeholder or regulatory reporting,Head of Sustainability / Finance
+ISSB,Sustainability Reporting,"HSE, Environment & Sustainability",Group and entities with stakeholder or regulatory reporting,Head of Sustainability / Finance
+IFRS S1,Sustainability Reporting,"HSE, Environment & Sustainability",Group and entities with stakeholder or regulatory reporting,Head of Sustainability / Finance
+IFRS S2,Sustainability Reporting,"HSE, Environment & Sustainability",Group and entities with stakeholder or regulatory reporting,Head of Sustainability / Finance
+CSRD,Sustainability Reporting,"HSE, Environment & Sustainability",Group and entities with stakeholder or regulatory reporting,Head of Sustainability / Finance
+Carbon Accounting,Carbon Compliance,"HSE, Environment & Sustainability",All material emissions sources and reporting boundaries,Climate / Sustainability Lead
+GHG Inventory,Carbon Compliance,"HSE, Environment & Sustainability",All material emissions sources and reporting boundaries,Climate / Sustainability Lead
+Scope 1,Carbon Compliance,"HSE, Environment & Sustainability",All material emissions sources and reporting boundaries,Climate / Sustainability Lead
+Scope 2,Carbon Compliance,"HSE, Environment & Sustainability",All material emissions sources and reporting boundaries,Climate / Sustainability Lead
+Scope 3,Carbon Compliance,"HSE, Environment & Sustainability",All material emissions sources and reporting boundaries,Climate / Sustainability Lead
+Water Use,Water Stewardship,"HSE, Environment & Sustainability",Water-intensive sites and water-stressed locations,Environment / Utilities Manager
+Water Quality,Water Stewardship,"HSE, Environment & Sustainability",Water-intensive sites and water-stressed locations,Environment / Utilities Manager
+Wastewater,Water Stewardship,"HSE, Environment & Sustainability",Water-intensive sites and water-stressed locations,Environment / Utilities Manager
+Water Risk,Water Stewardship,"HSE, Environment & Sustainability",Water-intensive sites and water-stressed locations,Environment / Utilities Manager
+Ecosystem Protection,Biodiversity Compliance,"HSE, Environment & Sustainability","Sites and supply chains affecting land, habitats or ecosystems",Environment / Sustainability Lead
+Habitat Management,Biodiversity Compliance,"HSE, Environment & Sustainability","Sites and supply chains affecting land, habitats or ecosystems",Environment / Sustainability Lead
+Land Restoration,Biodiversity Compliance,"HSE, Environment & Sustainability","Sites and supply chains affecting land, habitats or ecosystems",Environment / Sustainability Lead
+Recycling,Circular Economy Compliance,"HSE, Environment & Sustainability","Materials, products, packaging and waste streams",Sustainability / Operations
+Reuse,Circular Economy Compliance,"HSE, Environment & Sustainability","Materials, products, packaging and waste streams",Sustainability / Operations
+Waste Recovery,Circular Economy Compliance,"HSE, Environment & Sustainability","Materials, products, packaging and waste streams",Sustainability / Operations

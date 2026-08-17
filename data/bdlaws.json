@@ -1,0 +1,146 @@
+{
+  "portal": "https://bdlaws.minlaw.gov.bd",
+  "note": "20 core business/corporate acts registered (Tier 2 mandatory statutory floor)",
+  "acts": [
+    {
+      "name": "Companies Act, 1994",
+      "year": "1994",
+      "applicability": "Core",
+      "regulatory_area": "Corporate Governance",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-788.html"
+    },
+    {
+      "name": "Contract Act, 1872",
+      "year": "1872",
+      "applicability": "Core",
+      "regulatory_area": "Commercial / Contracts",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-26.html"
+    },
+    {
+      "name": "Sale of Goods Act, 1930",
+      "year": "1930",
+      "applicability": "Core",
+      "regulatory_area": "Commercial Transactions",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-150.html"
+    },
+    {
+      "name": "Arbitration Act, 2001",
+      "year": "2001",
+      "applicability": "Core",
+      "regulatory_area": "Dispute Resolution",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-850.html"
+    },
+    {
+      "name": "Negotiable Instruments Act, 1881",
+      "year": "1881",
+      "applicability": "Core",
+      "regulatory_area": "Commercial / Banking",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-46.html"
+    },
+    {
+      "name": "Stamp Act, 1899",
+      "year": "1899",
+      "applicability": "Core",
+      "regulatory_area": "Stamp Duty",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-77.html"
+    },
+    {
+      "name": "Income Tax Act, 2023",
+      "year": "2023",
+      "applicability": "Core",
+      "regulatory_area": "Taxation",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1429.html"
+    },
+    {
+      "name": "Value Added Tax and Supplementary Duty Act, 2012",
+      "year": "2012",
+      "applicability": "Core",
+      "regulatory_area": "VAT / SD",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1106.html"
+    },
+    {
+      "name": "Customs Act, 2023",
+      "year": "2023",
+      "applicability": "Conditional",
+      "regulatory_area": "Customs / Import-Export",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1476.html"
+    },
+    {
+      "name": "Bangladesh Labour Act, 2006",
+      "year": "2006",
+      "applicability": "Core",
+      "regulatory_area": "Labour / OHS",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-952.html"
+    },
+    {
+      "name": "Bangladesh Environment Conservation Act, 1995",
+      "year": "1995",
+      "applicability": "Core for industrial operations",
+      "regulatory_area": "Environment",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-791.html"
+    },
+    {
+      "name": "Fire Prevention and Extinction Act, 2003",
+      "year": "2003",
+      "applicability": "Core",
+      "regulatory_area": "Fire Safety",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-900.html"
+    },
+    {
+      "name": "Competition Act, 2012",
+      "year": "2012",
+      "applicability": "Core",
+      "regulatory_area": "Competition",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1098.html"
+    },
+    {
+      "name": "Consumer Rights Protection Act, 2009",
+      "year": "2009",
+      "applicability": "Conditional",
+      "regulatory_area": "Consumer Protection",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1014.html"
+    },
+    {
+      "name": "Money Laundering Prevention Act, 2012",
+      "year": "2012",
+      "applicability": "Conditional",
+      "regulatory_area": "AML / CFT",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1088.html"
+    },
+    {
+      "name": "Anti-Terrorism Act, 2009",
+      "year": "2009",
+      "applicability": "Conditional",
+      "regulatory_area": "CFT",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1001.html"
+    },
+    {
+      "name": "Information and Communication Technology Act, 2006",
+      "year": "2006",
+      "applicability": "Conditional",
+      "regulatory_area": "ICT / Digital",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-950.html"
+    },
+    {
+      "name": "Cyber Security Act, 2026",
+      "year": "2026",
+      "applicability": "Core for digital operations",
+      "regulatory_area": "Cybersecurity",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1710.html"
+    },
+    {
+      "name": "Copyright Act, 2023",
+      "year": "2023",
+      "applicability": "Conditional",
+      "regulatory_area": "Intellectual Property",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1452.html"
+    },
+    {
+      "name": "Trademarks Act, 2009",
+      "year": "2009",
+      "applicability": "Core",
+      "regulatory_area": "Intellectual Property",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1010.html"
+    }
+  ]
+}

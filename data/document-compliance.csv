@@ -1,0 +1,58 @@
+Document Type,Source Table,Domain / Use,Tier1 Internal Policy/SOP/Manual,Tier2 Bangladesh Law,Tier3 Global Standard,Indicative Owner
+NID,DocumentsTypeArc,HR identity,HR Records SOP; Employment Contract Policy,"Bangladesh Labour Act 2006 (S.5, S.50); NID Act 2010",SA8000; ILO C138 (right-to-work age verify),Chief HR Officer
+Birth Certificate,DocumentsTypeArc,HR identity,HR Records SOP,Birth & Death Registration Act 2004; Labour Act 2006 (S.34 child),ILO C138; SA8000,Chief HR Officer
+JSC/JDC,DocumentsTypeArc,Educational credential,Recruitment SOP; Credential Verification SOP,Education (JSC/JDC) — no specific BD statute; Labour Act (min age),ILO; SA8000 recruitment verification,Chief HR Officer
+SSC/Dakhil,DocumentsTypeArc,Educational credential,Recruitment SOP,Labour Act 2006 (minimum age); Education Board rules,ILO C138,Chief HR Officer
+HSC/Alim/Equivalent,DocumentsTypeArc,Educational credential,Recruitment SOP,Labour Act 2006 (min age),ILO C138,Chief HR Officer
+Honours,DocumentsTypeArc,Educational credential,Recruitment SOP,Education rules; Labour Act (min age),ILO; ISO 9001 (competence),Chief HR Officer
+Masters,DocumentsTypeArc,Educational credential,Recruitment SOP,Education rules,ISO 9001 (competence),Chief HR Officer
+PhD,DocumentsTypeArc,Educational credential,Recruitment SOP,Education rules,ISO 9001 (competence),Chief HR Officer
+IELTS/TOEFL,DocumentsTypeArc,Language credential,Recruitment SOP,—,Buyer requirements; ISO 9001,Chief HR Officer
+TIN,DocumentsTypeArc,Tax identity,Tax & Finance Policy; Payroll SOP,"Income Tax Act 2023 (TIN obligation, S.174); NBR rules",ISO 37301 (tax compliance),CFO / Head of Tax
+Health Declaration Certificate,DocumentsTypeArc,Fitness to work,OHS Policy; Pre-employment Medical SOP,Labour Act 2006 (S.94 medical); Factories Act 1965,ISO 45001; ILO,Head of HSE
+Passport-Sized Photographs,DocumentsTypeArc,HR records,HR Records SOP,—,ISO 9001 record mgmt,Chief HR Officer
+Others,DocumentsTypeArc,Misc HR record,HR Records SOP,—,—,Chief HR Officer
+Official Contact Number,DocumentsTypeArc,HR data,HR Records SOP; Data Privacy SOP,Digital Security Act 2023 (personal data),GDPR/ISO 27001 (where applicable),Chief HR Officer / CISO
+Present Address With Post Code,DocumentsTypeArc,HR data,HR Records SOP,Labour Act 2006 (S.50 service records),GDPR/ISO 27001,Chief HR Officer
+Utility Bill,DocumentsTypeArc,Address proof/KYC,KYC SOP; HR Records SOP,— (utility law),ISO 15489 records,Chief HR Officer
+Bank Statement,DocumentsTypeArc,Salary/bank proof,Payroll SOP; Finance Policy,Money Laundering Prevention Act 2012; Bangladesh Bank CDD,ISO 37301; FATF,CFO / Head of Payroll
+Logo,globalDocumentTypeArc,Brand asset,Brand & Marketing Policy; IP Policy,Trademarks Act 2009 (registration),ISO 37301 (IP),Head of Brand / Legal
+Picture,globalDocumentTypeArc,Brand asset,Brand & Marketing Policy,Copyright Act 2000,ISO 37301,Head of Brand
+NID,globalDocumentTypeArc,Identity (employee/partner),HR Records SOP; KYC SOP,Labour Act 2006; NID Act 2010; AML CDD,SA8000; FATF CDD,Chief HR Officer / Compliance
+Passport,globalDocumentTypeArc,Identity (employee/partner),HR Records SOP; Travel & Mobility Policy,Passport Act 1920/2013; Foreign Exchange Regulation Act 1947,ILO; ISO 37301,Chief HR Officer
+TIN,globalDocumentTypeArc,Tax identity,Tax Policy; Partner KYC SOP,Income Tax Act 2023,ISO 37301,Head of Tax
+BIN,globalDocumentTypeArc,VAT identity,Tax Policy; Partner KYC SOP,VAT Act 2012 (S.81 BIN); NBR,ISO 37301,Head of Tax
+Resume,globalDocumentTypeArc,Recruitment record,Recruitment SOP,—,ISO 9001; SA8000,Chief HR Officer
+Certificates,globalDocumentTypeArc,Credential record,Recruitment/HR Records SOP,—,ISO 9001,Chief HR Officer
+Training,globalDocumentTypeArc,Training record,Training & Competency SOP,Labour Act 2006 (training obligations),ISO 9001/45001; SA8000,Chief HR Officer / HSE
+Apprisal,globalDocumentTypeArc,Performance record,Performance Management SOP,Labour Act 2006 (annual increment rules),ISO 9001,Chief HR Officer
+PolicyUpload,globalDocumentTypeArc,Approved policy document,Document Control SOP; Internal Policy Policy,— (policies operationalize BD law),ISO 37301 (documented information),Head of Legal / Compliance
+LoanType,globalDocumentTypeArc,Employee loan,Loan & PF Policy,Labour Act 2006 (provident fund S.264); PF Act,ISO 37301,Chief HR Officer / Finance
+Leave & Movement,globalDocumentTypeArc,Leave record,Leave Management SOP,Labour Act 2006 (S.50 leave records; annual/festival leave),ISO 9001; SA8000 (rest periods),Chief HR Officer
+Expenses,globalDocumentTypeArc,Expense record,Expense Management SOP; Finance Policy,— (finance),ISO 37301,CFO
+string,globalDocumentTypeArc,Test/dummy record,—,—,—,—
+logos,globalDocumentTypeArc,Brand asset,Brand Policy,Trademarks Act 2009,ISO 37301,Head of Brand
+Video,globalDocumentTypeArc,Media asset,Content & Branding Policy,Copyright Act 2000,ISO 37301,Head of Brand
+BankId,globalDocumentTypeArc,Bank reference,Finance/Treasury SOP,Bangladesh Bank CDD; Money Laundering Prevention Act 2012,FATF; ISO 37301,CFO / Treasury
+Web,globalDocumentTypeArc,Digital asset,IT & Digital Governance Policy,ICT Act 2006; Digital Security Act 2023,ISO 27001,CISO / Head of IT
+Figmas,globalDocumentTypeArc,Design asset,Content & Branding Policy,Copyright Act 2000,ISO 37301,Head of Brand
+Cover Letter,globalDocumentTypeArc,Recruitment record,Recruitment SOP,—,ISO 9001,Chief HR Officer
+Demo,globalDocumentTypeArc,Test record,—,—,—,—
+Document Type,globalDocumentTypeArc,Config record,—,—,—,—
+IOU Adjustment,globalDocumentTypeArc,IOU record,IOU/Expense SOP; Finance Policy,—,ISO 37301,CFO
+Employee Document,globalDocumentTypeArc,Employee file,HR Records SOP; Offboarding Policy,Labour Act 2006 (S.50); Personal Data Protection Ordinance 2025,ISO 15489; SA8000,Chief HR Officer
+Separation,globalDocumentTypeArc,Exit record,Offboarding Policy; Employee Separation Policy,"Labour Act 2006 (S.26 notice, S.28 gratuity)",ILO C158; SA8000,Chief HR Officer
+TransferNPromotion,globalDocumentTypeArc,HR movement record,Transfer & Promotion Policy,Labour Act 2006 (S.50 records),ISO 9001,Chief HR Officer
+Remote Attendance,globalDocumentTypeArc,Attendance record,Attendance SOP; BYOD Policy,Labour Act 2006 (S.50 muster roll),ISO 27001 (data security),Chief HR Officer
+BSC Certificate,globalDocumentTypeArc,Credential record,Recruitment SOP,Education rules,ISO 9001,Chief HR Officer
+Home,globalDocumentTypeArc,UI asset,IT Governance,—,—,Head of IT
+Employee Document Management,globalDocumentTypeArc,Doc mgmt record,Document Control SOP; Records SOP,Personal Data Protection Ordinance 2025,ISO 15489; ISO 27001,Chief HR Officer / Records
+NID-Nominee,tblDocumentTypeArc,Partner nominee KYC,KYC SOP; Partner Registration SOP,Money Laundering Prevention Act 2012; BFIU CDD Guidelines,FATF; SA8000,Compliance / Risk
+NID-Successor,tblDocumentTypeArc,Partner successor KYC,KYC SOP; Partner Registration SOP,Money Laundering Prevention Act 2012; BFIU CDD,FATF,Compliance / Risk
+Trade License,tblDocumentTypeArc,Business license,Licence Management SOP; Compliance Calendar,Local Government Act 2009; Municipal/Union trade license rules,ISO 37301 (Licence Management),Head of Legal / Compliance
+Application Form,tblDocumentTypeArc,Application record,Partner Onboarding SOP,—,ISO 9001,Compliance
+Credit Application,tblDocumentTypeArc,Credit record,Credit Policy; Finance SOP,Money Laundering Prevention Act 2012; Banking Companies Act 1991,ISO 37301; FATF,CFO / Credit
+Warning Letter,tblDocumentTypeArc,Disciplinary record,Disciplinary & Grievance SOP,Labour Act 2006 (S.23-26 disciplinary due process),ILO; SA8000,Chief HR Officer
+Investment Increase Letter,tblDocumentTypeArc,Partner investment record,Finance/Investment SOP,Companies Act 1994; Income Tax Act 2023,ISO 37301,CFO / Company Secretary
+General Letter,tblDocumentTypeArc,Correspondence,Correspondence & Records SOP,—,ISO 15489,Records / Legal
+Common Letter,tblDocumentTypeArc,Correspondence,Correspondence & Records SOP,—,ISO 15489,Records / Legal
