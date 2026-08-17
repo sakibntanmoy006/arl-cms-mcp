@@ -49,10 +49,17 @@ node server-arl-cms.js
 Environment variables:
 - `ARL_CMS_DRIVE_FOLDER` — override the Tier-1 policy library Drive folder id
   (default `1F_OGk1yzP_nf_TD8NbInJOpS-MYLR3xX`)
+- `ARL_CMS_DMS_TREE` — path to the ARL-DMS `tree.json` (Hybrid integration).
+  When set, `cms_search_policy` / Tier-1 resolution searches the shared
+  14,535-entry DMS index and returns real documents (name, path, drive id, url,
+  source). Default lookup order: env → sibling `../arl-dms/data/tree.json` →
+  bundled `data/dms-tree.json` → skill library paths.
+- `ARL_CMS_DRIVE_FOLDER` — fallback live-Drive root when no shared index found.
 
 ## Notes
 
 - Read-only by design. Bundles the catalog data; no external DB required.
-- Deep document search/fetch lives in the **ARL-DMS MCP** (`arl-dms-mcp`);
-  the CMS MCP is the compliance brain on top of it.
+- **Hybrid integration (Option 5):** the CMS MCP reads the shared ARL-DMS index
+  for Tier-1 document search; document text/OCR is fetched via the ARL-DMS MCP
+  (`dms_fetch`). The ARL-CMS skill and ARL-DMS skill document this cross-reference.
 - Shareable as a single npm package (`.tgz`) via `npx -y <github-release-url>`.

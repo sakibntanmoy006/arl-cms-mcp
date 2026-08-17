@@ -91,6 +91,39 @@ try {
 }
 
 // ---------------------------------------------------------------------------
+// DMS shared index (Hybrid integration - Option 5)
+// ARL-CMS MCP reads the ARL-DMS tree.json (via ARL_CMS_DMS_TREE or default paths)
+// so Tier-1 searches resolve real documents from the 14,535-entry library.
+// ---------------------------------------------------------------------------
+let DMS_TREE = { entries: [] };
+let DMS_INDEX_ERROR = null;
+
+function loadDmsTree() {
+  const candidates = [
+    process.env.ARL_CMS_DMS_TREE,
+    path.join(PKG_DIR, '..', 'arl-dms', 'data', 'tree.json'),   // sibling package in MCPs/
+    path.join(PKG_DIR, 'data', 'dms-tree.json'),                 // bundled copy in this package
+    path.join(HOME, '.agents', 'skills', 'ARL-DMS', 'library', 'tree.json'), // skill library
+    path.join(HOME, '.claude', 'skills', 'ARL-DMS', 'library', 'tree.json'),
+  ].filter(Boolean);
+  for (const p of candidates) {
+    try {
+      if (fs.existsSync(p)) {
+        const raw = JSON.parse(fs.readFileSync(p, 'utf8'));
+        if (raw && Array.isArray(raw.entries)) {
+          DMS_TREE = raw;
+          DMS_INDEX_ERROR = null;
+          return { ok: true, path: p, entries: raw.entries.length };
+        }
+      }
+    } catch (e) { /* try next candidate */ }
+  }
+  DMS_INDEX_ERROR = 'DMS tree.json not found (set ARL_CMS_DMS_TREE or place the shared index nearby). Tier-1 search falls back to live Drive view.';
+  return { ok: false };
+}
+loadDmsTree();
+
+// ---------------------------------------------------------------------------
 // Helpers
 // ---------------------------------------------------------------------------
 function normalize(s) { return String(s || '').toLowerCase(); }
@@ -196,16 +229,67 @@ function coverageScan() {
 }
 
 // ---------------------------------------------------------------------------
-// Tier-1 policy library search (live Drive, public embedded folder view)
+// Tier-1 policy library search (Hybrid - Option 5)
+// 1) Search the shared ARL-DMS index first (fast, deterministic, real documents)
+// 2) Fall back to live Drive embedded view if no shared index is available
 // ---------------------------------------------------------------------------
+function driveUrlFor(entry) {
+  if (entry.url) return entry.url;
+  const base = entry.is_folder ? 'https://drive.google.com/drive/folders/' : 'https://drive.google.com/file/d/';
+  return base + entry.id;
+}
+
+function scoreDmsEntry(terms, entry) {
+  const name = normalize(entry.name || '');
+  const pathStr = normalize(entry.path || '');
+  const nameTokens = new Set((name.match(/[a-z0-9]{2,}/g) || []));
+  const pathTokens = new Set((pathStr.match(/[a-z0-9]{2,}/g) || []));
+  let s = 0;
+  for (const t of terms) {
+    if (nameTokens.has(t)) s += 4;
+    else if (name.includes(t)) s += 2;
+    if (pathTokens.has(t)) s += 2;
+    else if (pathStr.includes(t)) s += 1;
+  }
+  return s;
+}
+
+function searchDmsIndex(topic, limit = 5) {
+  const terms = normalize(topic).split(/\s+/).filter(Boolean);
+  if (!terms.length || !DMS_TREE.entries.length) return [];
+  const scored = DMS_TREE.entries
+    .filter((e) => !e.is_folder)
+    .map((e) => ({ e, s: scoreDmsEntry(terms, e) }))
+    .filter((x) => x.s > 0)
+    .sort((a, b) => b.s - a.s || normalize(a.e.name).localeCompare(normalize(b.e.name)));
+  return scored.slice(0, limit).map((x) => ({
+    id: x.e.id,
+    name: x.e.name,
+    path: x.e.path,
+    url: driveUrlFor(x.e),
+    source: x.e.source || 'drive-root',
+    doc_type: x.e.doc_type || 'unknown',
+  }));
+}
+
 function searchPolicyLibrary(topic, limit = 5) {
+  // Fast path: shared DMS index (Hybrid integration)
+  const indexHits = searchDmsIndex(topic, limit);
+  if (indexHits.length) {
+    return Promise.resolve({
+      ok: true,
+      found: indexHits,
+      searched: 'ARL-DMS shared index (' + (DMS_TREE.entries ? DMS_TREE.entries.length : 0) + ' entries)',
+      index_error: DMS_INDEX_ERROR,
+    });
+  }
+  // Fallback: live Drive embedded view (public library root)
   return new Promise((resolve) => {
     const folderId = process.env.ARL_CMS_DRIVE_FOLDER || '1F_OGk1yzP_nf_TD8NbInJOpS-MYLR3xX';
     const url = `https://drive.google.com/embeddedfolderview?id=${folderId}#list`;
     execFile('curl', ['-sL', '--max-time', '20', url], { encoding: 'buffer', maxBuffer: 10 * 1024 * 1024 }, (err, stdout) => {
-      if (err || !stdout) return resolve({ ok: false, error: 'Could not reach the policy library (Tier 1). Check network access.' });
+      if (err || !stdout) return resolve({ ok: false, error: 'Could not reach the policy library (Tier 1). Check network access.', index_error: DMS_INDEX_ERROR });
       const html = stdout.toString('utf8');
-      // minimal extraction of entry names/ids from the embedded view
       const re = /flip-entry" id="entry-([^"]+)".*?<a href="([^"]+)"[^>]*>.*?flip-entry-title">([^<]*)/gs;
       const found = [];
       let m;
@@ -218,7 +302,7 @@ function searchPolicyLibrary(topic, limit = 5) {
           if (found.length >= limit) break;
         }
       }
-      resolve({ ok: true, found, searched_folder: folderId });
+      resolve({ ok: true, found, searched_folder: folderId, index_error: DMS_INDEX_ERROR });
     });
   });
 }
@@ -276,11 +360,11 @@ function toolsList() {
       },
       {
         name: 'cms_search_policy',
-        description: 'Search the internal ARL policy/SOP/manual library on Google Drive (Tier 1) for a topic. Returns matched documents with name and id.',
+        description: 'Search the internal ARL policy/SOP/manual library (Tier 1) for a topic. Hybrid integration: resolves real documents from the shared ARL-DMS index (14,535 entries) first, falls back to live Drive. Returns matched documents with name, path, drive id, url, source. For document text/OCR use ARL-DMS MCP dms_fetch.',
         inputSchema: {
           type: 'object',
           properties: {
-            topic: { type: 'string', description: 'Topic to search, e.g. "anti bribery" or "food safety"' },
+            topic: { type: 'string', description: 'Topic to search, e.g. "anti bribery" or "food safety" or "leave policy"' },
             limit: { type: 'number', description: 'Max documents (default 5)' },
           },
           required: ['topic'],
@@ -404,10 +488,11 @@ function handleRequest(request) {
             if (!r.ok) {
               text = r.error;
             } else if (r.found.length) {
-              text = `Tier 1 library search for '${args.topic}': ${r.found.length} document(s):\n\n` +
-                r.found.map((d) => `- ${d.name}\n  ${d.url}`).join('\n');
+              text = `Tier 1 library search for '${args.topic}': ${r.found.length} document(s) found in ${r.searched || r.searched_folder || 'library'}:\n\n` +
+                r.found.map((d) => `- ${d.name}  [${d.source || d.doc_type || ''}]  (${d.path || d.url})\n  ${d.url}`).join('\n') +
+                `\n\nFor document text/OCR, call the ARL-DMS MCP dms_fetch with id=${r.found[0].id}.`;
             } else {
-              text = `Tier 1 library: no document found for '${args.topic}'. This is a coverage gap — check Tier 2 (Bangladesh law) and Tier 3 (global standard).`;
+              text = `Tier 1 library: no document found for '${args.topic}' in ${r.searched || r.searched_folder || 'library'}. This is a coverage gap — check Tier 2 (Bangladesh law) and Tier 3 (global standard).`;
             }
             return { jsonrpc, id, result: toolResult(text, r.found || []) };
           })
