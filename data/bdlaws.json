@@ -1,146 +1,717 @@
 {
   "portal": "https://bdlaws.minlaw.gov.bd",
-  "note": "20 core business/corporate acts registered (Tier 2 mandatory statutory floor)",
+  "note": "79 Bangladesh acts / rules registered (Tier 2 mandatory statutory floor) — expanded from 20 to 79 instruments sourced from the ARL law library (LAW-001…LAW-080).",
   "acts": [
     {
+      "law_id": "LAW-001",
+      "name": "Constitution of the People's Republic of Bangladesh",
+      "year": "1972",
+      "applicability": "Core",
+      "regulatory_area": "Constitutional / Fundamental",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-957.html",
+      "instrument": "Constitution"
+    },
+    {
+      "law_id": "LAW-002",
       "name": "Companies Act, 1994",
       "year": "1994",
       "applicability": "Core",
       "regulatory_area": "Corporate Governance",
-      "url": "http://bdlaws.minlaw.gov.bd/act-details-788.html"
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-788.html",
+      "instrument": "Act"
     },
     {
-      "name": "Contract Act, 1872",
-      "year": "1872",
+      "law_id": "LAW-003",
+      "name": "Companies (Amendment) Act, 2020",
+      "year": "2020",
       "applicability": "Core",
-      "regulatory_area": "Commercial / Contracts",
-      "url": "http://bdlaws.minlaw.gov.bd/act-details-26.html"
+      "regulatory_area": "Corporate Governance",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1308.html",
+      "instrument": "Amendment Act"
     },
     {
-      "name": "Sale of Goods Act, 1930",
-      "year": "1930",
+      "law_id": "LAW-004",
+      "name": "Companies (Second Amendment) Act, 2020",
+      "year": "2020",
       "applicability": "Core",
-      "regulatory_area": "Commercial Transactions",
-      "url": "http://bdlaws.minlaw.gov.bd/act-details-150.html"
+      "regulatory_area": "Corporate Governance",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1353.html",
+      "instrument": "Amendment Act"
     },
     {
-      "name": "Arbitration Act, 2001",
-      "year": "2001",
-      "applicability": "Core",
-      "regulatory_area": "Dispute Resolution",
-      "url": "http://bdlaws.minlaw.gov.bd/act-details-850.html"
-    },
-    {
-      "name": "Negotiable Instruments Act, 1881",
-      "year": "1881",
-      "applicability": "Core",
-      "regulatory_area": "Commercial / Banking",
-      "url": "http://bdlaws.minlaw.gov.bd/act-details-46.html"
-    },
-    {
-      "name": "Stamp Act, 1899",
-      "year": "1899",
-      "applicability": "Core",
-      "regulatory_area": "Stamp Duty",
-      "url": "http://bdlaws.minlaw.gov.bd/act-details-77.html"
-    },
-    {
-      "name": "Income Tax Act, 2023",
-      "year": "2023",
-      "applicability": "Core",
-      "regulatory_area": "Taxation",
-      "url": "http://bdlaws.minlaw.gov.bd/act-details-1429.html"
-    },
-    {
-      "name": "Value Added Tax and Supplementary Duty Act, 2012",
-      "year": "2012",
-      "applicability": "Core",
-      "regulatory_area": "VAT / SD",
-      "url": "http://bdlaws.minlaw.gov.bd/act-details-1106.html"
-    },
-    {
-      "name": "Customs Act, 2023",
-      "year": "2023",
-      "applicability": "Conditional",
-      "regulatory_area": "Customs / Import-Export",
-      "url": "http://bdlaws.minlaw.gov.bd/act-details-1476.html"
-    },
-    {
+      "law_id": "LAW-005",
       "name": "Bangladesh Labour Act, 2006",
       "year": "2006",
       "applicability": "Core",
       "regulatory_area": "Labour / OHS",
-      "url": "http://bdlaws.minlaw.gov.bd/act-details-952.html"
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-952.html",
+      "instrument": "Act"
     },
     {
+      "law_id": "LAW-007",
+      "name": "Bangladesh Labour Rules, 2015",
+      "year": "2015",
+      "applicability": "Core",
+      "regulatory_area": "Labour / OHS",
+      "url": "https://mole.gov.bd/pages/legislative-informations/",
+      "instrument": "Rules"
+    },
+    {
+      "law_id": "LAW-008",
+      "name": "Bangladesh EPZ Labour Act, 2019",
+      "year": "2019",
+      "applicability": "Conditional (EPZ)",
+      "regulatory_area": "Labour / OHS",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1285.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-009",
       "name": "Bangladesh Environment Conservation Act, 1995",
       "year": "1995",
       "applicability": "Core for industrial operations",
       "regulatory_area": "Environment",
-      "url": "http://bdlaws.minlaw.gov.bd/act-details-791.html"
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-791.html",
+      "instrument": "Act"
     },
     {
+      "law_id": "LAW-010",
+      "name": "Environment Conservation Rules, 2023",
+      "year": "2023",
+      "applicability": "Core for industrial operations",
+      "regulatory_area": "Environment",
+      "url": "https://doe.gov.bd/pages/static-pages/6922e0a1933eb65569e27eba",
+      "instrument": "Rules"
+    },
+    {
+      "law_id": "LAW-011",
+      "name": "Air Pollution (Control) Rules, 2022",
+      "year": "2022",
+      "applicability": "Core for industrial operations",
+      "regulatory_area": "Environment",
+      "url": "https://doe.gov.bd/pages/static-pages/6922dd5c933eb65569e14b89",
+      "instrument": "Rules"
+    },
+    {
+      "law_id": "LAW-012",
+      "name": "Bangladesh Water Act, 2013",
+      "year": "2013",
+      "applicability": "Conditional",
+      "regulatory_area": "Environment / Water",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1114.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-013",
+      "name": "Forest and Tree Conservation Act, 2026",
+      "year": "2026",
+      "applicability": "Conditional",
+      "regulatory_area": "Environment / Forestry",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1685.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-014",
       "name": "Fire Prevention and Extinction Act, 2003",
       "year": "2003",
       "applicability": "Core",
       "regulatory_area": "Fire Safety",
-      "url": "http://bdlaws.minlaw.gov.bd/act-details-900.html"
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-900.html",
+      "instrument": "Act"
     },
     {
+      "law_id": "LAW-015",
+      "name": "Building Construction Act, 1952",
+      "year": "1952",
+      "applicability": "Conditional",
+      "regulatory_area": "Building / Construction",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-254.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-016",
+      "name": "Bangladesh Building Regulatory Authority Act, 2026",
+      "year": "2026",
+      "applicability": "Conditional",
+      "regulatory_area": "Building / Construction",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1695.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-018",
+      "name": "Boiler Act, 2022",
+      "year": "2022",
+      "applicability": "Core for industrial operations",
+      "regulatory_area": "Process Safety / Boiler",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1402.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-019",
+      "name": "Electricity Act, 2018",
+      "year": "2018",
+      "applicability": "Conditional",
+      "regulatory_area": "Energy / Electricity",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1228.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-020",
+      "name": "Petroleum Act, 2016",
+      "year": "2016",
+      "applicability": "Conditional",
+      "regulatory_area": "Energy / Petroleum",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1190.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-021",
+      "name": "Explosives Act, 1884",
+      "year": "1884",
+      "applicability": "Core for industrial operations",
+      "regulatory_area": "Process Safety / Explosives",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-52.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-022",
+      "name": "Road Transport Act, 2018",
+      "year": "2018",
+      "applicability": "Core for logistics",
+      "regulatory_area": "Transport / Fleet",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1262.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-023",
+      "name": "Bangladesh Road Transport Authority Act, 2017",
+      "year": "2017",
+      "applicability": "Conditional",
+      "regulatory_area": "Transport / Fleet",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1217.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-024",
+      "name": "Bangladesh Merchant Shipping Ordinance, 1983",
+      "year": "1983",
+      "applicability": "Conditional",
+      "regulatory_area": "Shipping / Maritime",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-642.html",
+      "instrument": "Ordinance"
+    },
+    {
+      "law_id": "LAW-025",
+      "name": "Ports Act, 1908",
+      "year": "1908",
+      "applicability": "Conditional",
+      "regulatory_area": "Shipping / Ports",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-89.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-026",
+      "name": "Bangladesh Flag Vessels (Protection of Interest) Act, 2019",
+      "year": "2019",
+      "applicability": "Conditional",
+      "regulatory_area": "Shipping / Maritime",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1296.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-027",
+      "name": "Safe Food Act, 2013",
+      "year": "2013",
+      "applicability": "Core for food operations",
+      "regulatory_area": "Food Safety",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1127.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-028",
+      "name": "Consumers' Right Protection Act, 2009",
+      "year": "2009",
+      "applicability": "Conditional",
+      "regulatory_area": "Consumer Protection",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1014.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-029",
+      "name": "Bangladesh Standards and Testing Institution Act, 2018",
+      "year": "2018",
+      "applicability": "Core",
+      "regulatory_area": "Standards / Quality",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1280.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-030",
+      "name": "Standards of Weights and Measures Act, 2018",
+      "year": "2018",
+      "applicability": "Core",
+      "regulatory_area": "Metrology / Weights & Measures",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1270.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-031",
+      "name": "Income Tax Act, 2023",
+      "year": "2023",
+      "applicability": "Core",
+      "regulatory_area": "Taxation",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1429.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-032",
+      "name": "Value Added Tax and Supplementary Duty Act, 2012",
+      "year": "2012",
+      "applicability": "Core",
+      "regulatory_area": "VAT / SD",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1106.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-033",
+      "name": "Value Added Tax and Supplementary Duty (Amendment) Ordinance, 2025",
+      "year": "2025",
+      "applicability": "Core",
+      "regulatory_area": "VAT / SD",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1514.html",
+      "instrument": "Ordinance"
+    },
+    {
+      "law_id": "LAW-034",
+      "name": "Customs Act, 2023",
+      "year": "2023",
+      "applicability": "Conditional",
+      "regulatory_area": "Customs / Import-Export",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1476.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-035",
       "name": "Competition Act, 2012",
       "year": "2012",
       "applicability": "Core",
       "regulatory_area": "Competition",
-      "url": "http://bdlaws.minlaw.gov.bd/act-details-1098.html"
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1098.html",
+      "instrument": "Act"
     },
     {
-      "name": "Consumer Rights Protection Act, 2009",
-      "year": "2009",
-      "applicability": "Conditional",
-      "regulatory_area": "Consumer Protection",
-      "url": "http://bdlaws.minlaw.gov.bd/act-details-1014.html"
-    },
-    {
+      "law_id": "LAW-036",
       "name": "Money Laundering Prevention Act, 2012",
       "year": "2012",
       "applicability": "Conditional",
       "regulatory_area": "AML / CFT",
-      "url": "http://bdlaws.minlaw.gov.bd/act-details-1088.html"
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1088.html",
+      "instrument": "Act"
     },
     {
-      "name": "Anti-Terrorism Act, 2009",
+      "law_id": "LAW-037",
+      "name": "Contract Act, 1872",
+      "year": "1872",
+      "applicability": "Core",
+      "regulatory_area": "Commercial / Contracts",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-26.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-038",
+      "name": "Arbitration Act, 2001",
+      "year": "2001",
+      "applicability": "Core",
+      "regulatory_area": "Dispute Resolution",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-850.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-039",
+      "name": "Trademark Act, 2009",
       "year": "2009",
-      "applicability": "Conditional",
-      "regulatory_area": "CFT",
-      "url": "http://bdlaws.minlaw.gov.bd/act-details-1001.html"
+      "applicability": "Core",
+      "regulatory_area": "Intellectual Property",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1010.html",
+      "instrument": "Act"
     },
     {
-      "name": "Information and Communication Technology Act, 2006",
-      "year": "2006",
-      "applicability": "Conditional",
-      "regulatory_area": "ICT / Digital",
-      "url": "http://bdlaws.minlaw.gov.bd/act-details-950.html"
-    },
-    {
-      "name": "Cyber Security Act, 2026",
-      "year": "2026",
-      "applicability": "Core for digital operations",
-      "regulatory_area": "Cybersecurity",
-      "url": "http://bdlaws.minlaw.gov.bd/act-details-1710.html"
-    },
-    {
+      "law_id": "LAW-040",
       "name": "Copyright Act, 2023",
       "year": "2023",
       "applicability": "Conditional",
       "regulatory_area": "Intellectual Property",
-      "url": "http://bdlaws.minlaw.gov.bd/act-details-1452.html"
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1452.html",
+      "instrument": "Act"
     },
     {
-      "name": "Trademarks Act, 2009",
-      "year": "2009",
-      "applicability": "Core",
+      "law_id": "LAW-041",
+      "name": "Bangladesh Patent Act, 2023",
+      "year": "2023",
+      "applicability": "Conditional",
       "regulatory_area": "Intellectual Property",
-      "url": "http://bdlaws.minlaw.gov.bd/act-details-1010.html"
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1472.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-042",
+      "name": "Cyber Security Act, 2026",
+      "year": "2026",
+      "applicability": "Core for digital operations",
+      "regulatory_area": "Cybersecurity",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1710.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-043",
+      "name": "Cyber Security (Amendment) Act, 2026",
+      "year": "2026",
+      "applicability": "Core for digital operations",
+      "regulatory_area": "Cybersecurity",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1728.html",
+      "instrument": "Amendment Act"
+    },
+    {
+      "law_id": "LAW-044",
+      "name": "Personal Data Protection Act, 2026",
+      "year": "2026",
+      "applicability": "Core for digital operations",
+      "regulatory_area": "Privacy & Data Protection",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1692.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-045",
+      "name": "Information and Communication Technology Act, 2006",
+      "year": "2006",
+      "applicability": "Conditional",
+      "regulatory_area": "ICT / Digital",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-950.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-046",
+      "name": "Bangladesh Investment Development Authority Act, 2016",
+      "year": "2016",
+      "applicability": "Conditional",
+      "regulatory_area": "Investment",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1194.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-047",
+      "name": "Bangladesh Investment Development Authority (Amendment) Act, 2026",
+      "year": "2026",
+      "applicability": "Conditional",
+      "regulatory_area": "Investment",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1663.html",
+      "instrument": "Amendment Act"
+    },
+    {
+      "law_id": "LAW-048",
+      "name": "Invest Bangladesh Act, 2026",
+      "year": "2026",
+      "applicability": "Conditional",
+      "regulatory_area": "Investment",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1733.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-049",
+      "name": "Bangladesh Economic Zones Act, 2010",
+      "year": "2010",
+      "applicability": "Conditional",
+      "regulatory_area": "Investment / Economic Zones",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1053.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-050",
+      "name": "Land Crime Prevention and Remedy Act, 2023",
+      "year": "2023",
+      "applicability": "Conditional",
+      "regulatory_area": "Land / Property",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1454.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-051",
+      "name": "Anti-Corruption Commission Act, 2004",
+      "year": "2004",
+      "applicability": "Core",
+      "regulatory_area": "Anti-Corruption",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-914.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-052",
+      "name": "Prevention of Corruption Act, 1947",
+      "year": "1947",
+      "applicability": "Core",
+      "regulatory_area": "Anti-Corruption",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-217.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-053",
+      "name": "Financial Reporting Act, 2015",
+      "year": "2015",
+      "applicability": "Core",
+      "regulatory_area": "Financial Reporting",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1169.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-054",
+      "name": "Foreign Exchange Regulation Act, 1947",
+      "year": "1947",
+      "applicability": "Conditional",
+      "regulatory_area": "Foreign Exchange",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-218.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-055",
+      "name": "Imports and Exports (Control) Act, 1950",
+      "year": "1950",
+      "applicability": "Conditional",
+      "regulatory_area": "Import-Export",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-236.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-056",
+      "name": "Bangladesh Energy Regulatory Commission Act, 2003",
+      "year": "2003",
+      "applicability": "Conditional",
+      "regulatory_area": "Energy / Regulation",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-902.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-057",
+      "name": "Bangladesh Energy Regulatory Commission (Amendment) Act, 2023",
+      "year": "2023",
+      "applicability": "Conditional",
+      "regulatory_area": "Energy / Regulation",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1423.html",
+      "instrument": "Amendment Act"
+    },
+    {
+      "law_id": "LAW-058",
+      "name": "Bangladesh Gas Act, 2010",
+      "year": "2010",
+      "applicability": "Conditional",
+      "regulatory_area": "Energy / Gas",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1052.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-059",
+      "name": "Inland Shipping Ordinance, 1976",
+      "year": "1976",
+      "applicability": "Conditional",
+      "regulatory_area": "Shipping / Inland Water",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-531.html",
+      "instrument": "Ordinance"
+    },
+    {
+      "law_id": "LAW-060",
+      "name": "Registration Act, 1908",
+      "year": "1908",
+      "applicability": "Core",
+      "regulatory_area": "Land / Registration",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-90.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-061",
+      "name": "Transfer of Property Act, 1882",
+      "year": "1882",
+      "applicability": "Core",
+      "regulatory_area": "Land / Property",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-48.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-062",
+      "name": "Acquisition and Requisition of Immovable Property Act, 2017",
+      "year": "2017",
+      "applicability": "Conditional",
+      "regulatory_area": "Land / Acquisition",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1220.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-063",
+      "name": "Stamp Act, 1899",
+      "year": "1899",
+      "applicability": "Core",
+      "regulatory_area": "Stamp Duty",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-77.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-064",
+      "name": "Bangladesh Securities and Exchange Commission Act, 1993",
+      "year": "1993",
+      "applicability": "Conditional",
+      "regulatory_area": "Securities / Capital Market",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-775.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-065",
+      "name": "Securities and Exchange Ordinance, 1969",
+      "year": "1969",
+      "applicability": "Conditional",
+      "regulatory_area": "Securities / Capital Market",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-355.html",
+      "instrument": "Ordinance"
+    },
+    {
+      "law_id": "LAW-066",
+      "name": "Fish Feed and Animal Feed Act, 2010",
+      "year": "2010",
+      "applicability": "Core for feed operations",
+      "regulatory_area": "Food Safety / Feed",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1029.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-067",
+      "name": "Disaster Management Act, 2012",
+      "year": "2012",
+      "applicability": "Core",
+      "regulatory_area": "Emergency Preparedness",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1103.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-068",
+      "name": "Negotiable Instruments Act, 1881",
+      "year": "1881",
+      "applicability": "Core",
+      "regulatory_area": "Commercial / Banking",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-46.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-069",
+      "name": "Anti-Corruption Commission (Amendment) Ordinance, 2025",
+      "year": "2025",
+      "applicability": "Core",
+      "regulatory_area": "Anti-Corruption",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1592.html",
+      "instrument": "Amendment Ordinance"
+    },
+    {
+      "law_id": "LAW-070",
+      "name": "Anti-Terrorism Act, 2009",
+      "year": "2009",
+      "applicability": "Conditional",
+      "regulatory_area": "CFT",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1009.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-071",
+      "name": "Anti-Terrorism (Amendment) Act, 2026",
+      "year": "2026",
+      "applicability": "Conditional",
+      "regulatory_area": "CFT",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1657.html",
+      "instrument": "Amendment Act"
+    },
+    {
+      "law_id": "LAW-072",
+      "name": "Local Government (City Corporation) Act, 2009",
+      "year": "2009",
+      "applicability": "Conditional",
+      "regulatory_area": "Local Government",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1026.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-073",
+      "name": "Local Government (Municipality) Act, 2009",
+      "year": "2009",
+      "applicability": "Conditional",
+      "regulatory_area": "Local Government",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1024.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-074",
+      "name": "Local Government (Union Parishad) Act, 2009",
+      "year": "2009",
+      "applicability": "Conditional",
+      "regulatory_area": "Local Government",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1027.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-075",
+      "name": "Finance Act, 2026",
+      "year": "2026",
+      "applicability": "Core",
+      "regulatory_area": "Taxation / Finance",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1725.html",
+      "instrument": "Act"
+    },
+    {
+      "law_id": "LAW-076",
+      "name": "Public Procurement (Amendment) Act, 2026",
+      "year": "2026",
+      "applicability": "Core",
+      "regulatory_area": "Procurement",
+      "url": "https://www.bppa.gov.bd/media-communication/news-1547.html",
+      "instrument": "Amendment Act"
+    },
+    {
+      "law_id": "LAW-077",
+      "name": "Public Procurement Rules, 2025",
+      "year": "2025",
+      "applicability": "Core",
+      "regulatory_area": "Procurement",
+      "url": "https://www.bppa.gov.bd/procurement-policy-and-procedure-documents/procurement-rules.html",
+      "instrument": "Rules"
+    },
+    {
+      "law_id": "LAW-078",
+      "name": "Registration (Amendment) Act, 2026",
+      "year": "2026",
+      "applicability": "Core",
+      "regulatory_area": "Land / Registration",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-1643.html",
+      "instrument": "Amendment Act"
+    },
+    {
+      "law_id": "LAW-079",
+      "name": "Withholding Tax Rules, 2026",
+      "year": "2026",
+      "applicability": "Core",
+      "regulatory_area": "Taxation",
+      "url": "https://nbr.gov.bd/regulations/rules/income-tax-rules/eng",
+      "instrument": "Rules"
+    },
+    {
+      "law_id": "LAW-080",
+      "name": "Value Added Tax and Supplementary Duty Rules, 2016",
+      "year": "2016",
+      "applicability": "Core",
+      "regulatory_area": "VAT / SD",
+      "url": "https://nbr.gov.bd/regulations/rules/vat-rules/eng",
+      "instrument": "Rules"
+    },
+    {
+      "law_id": "LAW-LEGACY",
+      "name": "Sale of Goods Act, 1930",
+      "year": "1930",
+      "applicability": "Core",
+      "regulatory_area": "Commercial Transactions",
+      "url": "http://bdlaws.minlaw.gov.bd/act-details-150.html",
+      "instrument": "Act"
     }
   ]
 }

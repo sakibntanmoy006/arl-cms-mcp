@@ -12,7 +12,7 @@ clients (opencode, Claude, etc.) over stdio JSON-RPC 2.0.
 | `risk-register.csv` | **2,612 Bangladesh legal risks** (SBU, area, scenario, legal basis, penalty, level: Critical 340 / High 1,016 / Medium 881 / Low 375) |
 | `document-compliance.csv` | 55 ERP document types → Tier1 internal policy / Tier2 BD law / Tier3 global standard + owner |
 | `business-documents.csv` | 42 ERP business documents (schema/table + process + tax flag) |
-| `bdlaws.json` | 20 core Bangladesh acts + official bdlaws.minlaw.gov.bd links |
+| `bdlaws.json` | 79 Bangladesh acts / rules + official bdlaws.minlaw.gov.bd links |
 
 ## Resolution rule (3-tier, strict order)
 
@@ -33,7 +33,7 @@ or weaker. Evidence before verdict: no evidence = NOT DEMONSTRATED, not COMPLIAN
 | `cms_check_compliance` | Orchestrated 3-tier compliance resolver for a topic |
 | `cms_search_policy` | Tier-1 library search (live Drive embedded view) — reports coverage gap if none found |
 | `cms_risk_lookup` | Bangladesh legal risks by SBU/area/topic with legal basis + penalty + level |
-| `cms_bdlaws_act` | Official bdlaws link + metadata for the 20 core acts |
+| `cms_bdlaws_act` | Official bdlaws link + metadata for the 79 registered acts/rules |
 | `cms_document_compliance` | 55 ERP document types → 3-tier compliance mapping + owner |
 | `cms_business_documents` | 42 ERP business documents inventory |
 | `cms_coverage_scan` | Catalog coverage by domain/category + registered asset counts |

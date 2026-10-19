@@ -6,7 +6,7 @@
       "command": [
         "npx",
         "-y",
-        "https://github.com/sakibntanmoy006/arl-cms-mcp/releases/download/v1.1.0/arl-cms-mcp-1.1.0.tgz"
+        "https://github.com/sakibntanmoy006/arl-cms-mcp/releases/download/v1.2.0/arl-cms-mcp-1.2.0.tgz"
       ],
       "enabled": true,
       "environment": {

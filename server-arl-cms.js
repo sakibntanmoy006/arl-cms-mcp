@@ -11,7 +11,7 @@
  *   3. risk-register.csv        - 2,612 Bangladesh legal risks (SBU, area, scenario, legal basis, penalty, level)
  *   4. document-compliance.csv  - 55 ERP document types -> Tier1/Tier2/Tier3 + owner
  *   5. business-documents.csv   - 42 ERP business documents (schema/table + process + tax flag)
- *   6. bdlaws.json              - 20 core Bangladesh acts + official portal links
+ *   6. bdlaws.json              - 79 Bangladesh acts/rules + official portal links
  *
  * Resolution rule (inherited from ARL-CMS skill): strict 3-tier order
  *   TIER 1  Internal - ARL policy/SOP/manual library (primary source)
@@ -386,7 +386,7 @@ function toolsList() {
       },
       {
         name: 'cms_bdlaws_act',
-        description: 'Return the official Bangladesh law link and metadata for the 20 registered core business/corporate acts from bdlaws.minlaw.gov.bd (Tier 2 mandatory statutory floor).',
+        description: 'Return the official Bangladesh law link and metadata for the registered acts/rules from bdlaws.minlaw.gov.bd (Tier 2 mandatory statutory floor).',
         inputSchema: {
           type: 'object',
           properties: { name: { type: 'string', description: 'Optional act name filter (e.g. Labour, Companies, VAT)' } },
