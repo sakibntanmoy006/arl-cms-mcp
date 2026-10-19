@@ -9,7 +9,15 @@
       "applicability": "Core",
       "regulatory_area": "Constitutional / Fundamental",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-957.html",
-      "instrument": "Constitution"
+      "instrument": "Constitution",
+      "tier3": {
+        "domain": "Legal Compliance",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Statutory Compliance",
+          "Regulatory Compliance"
+        ]
+      }
     },
     {
       "law_id": "LAW-002",
@@ -18,7 +26,16 @@
       "applicability": "Core",
       "regulatory_area": "Corporate Governance",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-788.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Corporate Governance Compliance",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Companies Act Compliance",
+          "Corporate Secretarial Compliance",
+          "Statutory Registers"
+        ]
+      }
     },
     {
       "law_id": "LAW-003",
@@ -27,7 +44,14 @@
       "applicability": "Core",
       "regulatory_area": "Corporate Governance",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1308.html",
-      "instrument": "Amendment Act"
+      "instrument": "Amendment Act",
+      "tier3": {
+        "domain": "Corporate Governance Compliance",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Companies Act Compliance"
+        ]
+      }
     },
     {
       "law_id": "LAW-004",
@@ -36,7 +60,14 @@
       "applicability": "Core",
       "regulatory_area": "Corporate Governance",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1353.html",
-      "instrument": "Amendment Act"
+      "instrument": "Amendment Act",
+      "tier3": {
+        "domain": "Corporate Governance Compliance",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Companies Act Compliance"
+        ]
+      }
     },
     {
       "law_id": "LAW-005",
@@ -45,7 +76,16 @@
       "applicability": "Core",
       "regulatory_area": "Labour / OHS",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-952.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Human Resource Compliance",
+        "category": "People & Human Rights",
+        "requirements": [
+          "Labour Law",
+          "Employment Contract",
+          "Working Hours"
+        ]
+      }
     },
     {
       "law_id": "LAW-007",
@@ -54,7 +94,15 @@
       "applicability": "Core",
       "regulatory_area": "Labour / OHS",
       "url": "https://mole.gov.bd/pages/legislative-informations/",
-      "instrument": "Rules"
+      "instrument": "Rules",
+      "tier3": {
+        "domain": "Human Resource Compliance",
+        "category": "People & Human Rights",
+        "requirements": [
+          "Labour Law",
+          "Leave Management"
+        ]
+      }
     },
     {
       "law_id": "LAW-008",
@@ -63,7 +111,15 @@
       "applicability": "Conditional (EPZ)",
       "regulatory_area": "Labour / OHS",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1285.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Human Resource Compliance",
+        "category": "People & Human Rights",
+        "requirements": [
+          "Labour Law",
+          "Employee Welfare"
+        ]
+      }
     },
     {
       "law_id": "LAW-009",
@@ -72,7 +128,16 @@
       "applicability": "Core for industrial operations",
       "regulatory_area": "Environment",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-791.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Environmental Compliance",
+        "category": "HSE, Environment & Sustainability",
+        "requirements": [
+          "Environmental Clearance",
+          "Pollution Control",
+          "Effluent Treatment"
+        ]
+      }
     },
     {
       "law_id": "LAW-010",
@@ -81,7 +146,16 @@
       "applicability": "Core for industrial operations",
       "regulatory_area": "Environment",
       "url": "https://doe.gov.bd/pages/static-pages/6922e0a1933eb65569e27eba",
-      "instrument": "Rules"
+      "instrument": "Rules",
+      "tier3": {
+        "domain": "Environmental Compliance",
+        "category": "HSE, Environment & Sustainability",
+        "requirements": [
+          "Environmental Clearance",
+          "Air Emission",
+          "Water Discharge"
+        ]
+      }
     },
     {
       "law_id": "LAW-011",
@@ -90,7 +164,15 @@
       "applicability": "Core for industrial operations",
       "regulatory_area": "Environment",
       "url": "https://doe.gov.bd/pages/static-pages/6922dd5c933eb65569e14b89",
-      "instrument": "Rules"
+      "instrument": "Rules",
+      "tier3": {
+        "domain": "Environmental Compliance",
+        "category": "HSE, Environment & Sustainability",
+        "requirements": [
+          "Air Emission",
+          "Pollution Control"
+        ]
+      }
     },
     {
       "law_id": "LAW-012",
@@ -99,7 +181,15 @@
       "applicability": "Conditional",
       "regulatory_area": "Environment / Water",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1114.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Water Stewardship",
+        "category": "HSE, Environment & Sustainability",
+        "requirements": [
+          "Water Use",
+          "Water Quality"
+        ]
+      }
     },
     {
       "law_id": "LAW-013",
@@ -108,7 +198,15 @@
       "applicability": "Conditional",
       "regulatory_area": "Environment / Forestry",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1685.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Biodiversity Compliance",
+        "category": "HSE, Environment & Sustainability",
+        "requirements": [
+          "Ecosystem Protection",
+          "Land Restoration"
+        ]
+      }
     },
     {
       "law_id": "LAW-014",
@@ -117,7 +215,14 @@
       "applicability": "Core",
       "regulatory_area": "Fire Safety",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-900.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Occupational Health & Safety",
+        "category": "HSE, Environment & Sustainability",
+        "requirements": [
+          "Fire Safety"
+        ]
+      }
     },
     {
       "law_id": "LAW-015",
@@ -126,7 +231,15 @@
       "applicability": "Conditional",
       "regulatory_area": "Building / Construction",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-254.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Real Estate & Infrastructure Compliance",
+        "category": "Projects, Property & Facilities",
+        "requirements": [
+          "Building Code",
+          "Occupancy Certificate"
+        ]
+      }
     },
     {
       "law_id": "LAW-016",
@@ -135,7 +248,15 @@
       "applicability": "Conditional",
       "regulatory_area": "Building / Construction",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1695.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Real Estate & Infrastructure Compliance",
+        "category": "Projects, Property & Facilities",
+        "requirements": [
+          "Building Code",
+          "Structural Safety"
+        ]
+      }
     },
     {
       "law_id": "LAW-018",
@@ -144,7 +265,15 @@
       "applicability": "Core for industrial operations",
       "regulatory_area": "Process Safety / Boiler",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1402.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Manufacturing Compliance",
+        "category": "Engineering, Assets & Manufacturing",
+        "requirements": [
+          "Boiler Inspection",
+          "Pressure Vessel Inspection"
+        ]
+      }
     },
     {
       "law_id": "LAW-019",
@@ -153,7 +282,15 @@
       "applicability": "Conditional",
       "regulatory_area": "Energy / Electricity",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1228.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Energy Compliance",
+        "category": "HSE, Environment & Sustainability",
+        "requirements": [
+          "Utility Management",
+          "Power Quality"
+        ]
+      }
     },
     {
       "law_id": "LAW-020",
@@ -162,7 +299,14 @@
       "applicability": "Conditional",
       "regulatory_area": "Energy / Petroleum",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1190.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Energy Compliance",
+        "category": "HSE, Environment & Sustainability",
+        "requirements": [
+          "Utility Management"
+        ]
+      }
     },
     {
       "law_id": "LAW-021",
@@ -171,7 +315,14 @@
       "applicability": "Core for industrial operations",
       "regulatory_area": "Process Safety / Explosives",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-52.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Process Safety Management",
+        "category": "Engineering, Assets & Manufacturing",
+        "requirements": [
+          "Explosion Protection"
+        ]
+      }
     },
     {
       "law_id": "LAW-022",
@@ -180,7 +331,15 @@
       "applicability": "Core for logistics",
       "regulatory_area": "Transport / Fleet",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1262.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Logistics Compliance",
+        "category": "Supply Chain, Trade & Operations",
+        "requirements": [
+          "Vehicle Fitness",
+          "Transportation Safety"
+        ]
+      }
     },
     {
       "law_id": "LAW-023",
@@ -189,7 +348,15 @@
       "applicability": "Conditional",
       "regulatory_area": "Transport / Fleet",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1217.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Fleet Compliance",
+        "category": "Supply Chain, Trade & Operations",
+        "requirements": [
+          "Vehicle Inspection",
+          "Driver Safety"
+        ]
+      }
     },
     {
       "law_id": "LAW-024",
@@ -198,7 +365,15 @@
       "applicability": "Conditional",
       "regulatory_area": "Shipping / Maritime",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-642.html",
-      "instrument": "Ordinance"
+      "instrument": "Ordinance",
+      "tier3": {
+        "domain": "Logistics Compliance",
+        "category": "Supply Chain, Trade & Operations",
+        "requirements": [
+          "Dangerous Goods",
+          "Transportation Safety"
+        ]
+      }
     },
     {
       "law_id": "LAW-025",
@@ -207,7 +382,15 @@
       "applicability": "Conditional",
       "regulatory_area": "Shipping / Ports",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-89.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Logistics Compliance",
+        "category": "Supply Chain, Trade & Operations",
+        "requirements": [
+          "Dangerous Goods",
+          "Warehouse Compliance"
+        ]
+      }
     },
     {
       "law_id": "LAW-026",
@@ -216,7 +399,14 @@
       "applicability": "Conditional",
       "regulatory_area": "Shipping / Maritime",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1296.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Logistics Compliance",
+        "category": "Supply Chain, Trade & Operations",
+        "requirements": [
+          "Fleet Management"
+        ]
+      }
     },
     {
       "law_id": "LAW-027",
@@ -225,7 +415,16 @@
       "applicability": "Core for food operations",
       "regulatory_area": "Food Safety",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1127.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Food Safety Compliance",
+        "category": "Quality, Product & Customer",
+        "requirements": [
+          "HACCP",
+          "Food Traceability",
+          "Food Labelling"
+        ]
+      }
     },
     {
       "law_id": "LAW-028",
@@ -234,7 +433,15 @@
       "applicability": "Conditional",
       "regulatory_area": "Consumer Protection",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1014.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Consumer Affairs Compliance",
+        "category": "Quality, Product & Customer",
+        "requirements": [
+          "Consumer Complaints",
+          "Product Claims"
+        ]
+      }
     },
     {
       "law_id": "LAW-029",
@@ -243,7 +450,15 @@
       "applicability": "Core",
       "regulatory_area": "Standards / Quality",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1280.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Quality Compliance",
+        "category": "Quality, Product & Customer",
+        "requirements": [
+          "Testing",
+          "Inspection"
+        ]
+      }
     },
     {
       "law_id": "LAW-030",
@@ -252,7 +467,15 @@
       "applicability": "Core",
       "regulatory_area": "Metrology / Weights & Measures",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1270.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Metrology Compliance",
+        "category": "Quality, Product & Customer",
+        "requirements": [
+          "Instrument Calibration",
+          "Traceability"
+        ]
+      }
     },
     {
       "law_id": "LAW-031",
@@ -261,7 +484,16 @@
       "applicability": "Core",
       "regulatory_area": "Taxation",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1429.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Tax Compliance",
+        "category": "Finance, Tax & Insurance",
+        "requirements": [
+          "Corporate Income Tax",
+          "Tax Return",
+          "Withholding Tax"
+        ]
+      }
     },
     {
       "law_id": "LAW-032",
@@ -270,7 +502,15 @@
       "applicability": "Core",
       "regulatory_area": "VAT / SD",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1106.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Tax Compliance",
+        "category": "Finance, Tax & Insurance",
+        "requirements": [
+          "VAT",
+          "Supplementary Duty"
+        ]
+      }
     },
     {
       "law_id": "LAW-033",
@@ -279,7 +519,14 @@
       "applicability": "Core",
       "regulatory_area": "VAT / SD",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1514.html",
-      "instrument": "Ordinance"
+      "instrument": "Ordinance",
+      "tier3": {
+        "domain": "Tax Compliance",
+        "category": "Finance, Tax & Insurance",
+        "requirements": [
+          "VAT"
+        ]
+      }
     },
     {
       "law_id": "LAW-034",
@@ -288,7 +535,15 @@
       "applicability": "Conditional",
       "regulatory_area": "Customs / Import-Export",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1476.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Tax Compliance",
+        "category": "Finance, Tax & Insurance",
+        "requirements": [
+          "Customs Duty",
+          "Import Duty"
+        ]
+      }
     },
     {
       "law_id": "LAW-035",
@@ -297,7 +552,16 @@
       "applicability": "Core",
       "regulatory_area": "Competition",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1098.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Competition & Antitrust Compliance",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Competition Law",
+          "Abuse of Dominant Position",
+          "Cartel Prevention"
+        ]
+      }
     },
     {
       "law_id": "LAW-036",
@@ -306,7 +570,16 @@
       "applicability": "Conditional",
       "regulatory_area": "AML / CFT",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1088.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "AML & Financial Crime",
+        "category": "Finance, Tax & Insurance",
+        "requirements": [
+          "Anti-Money Laundering",
+          "KYC",
+          "Suspicious Transaction Reporting"
+        ]
+      }
     },
     {
       "law_id": "LAW-037",
@@ -315,7 +588,14 @@
       "applicability": "Core",
       "regulatory_area": "Commercial / Contracts",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-26.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Contract Management Compliance",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Contract Review"
+        ]
+      }
     },
     {
       "law_id": "LAW-038",
@@ -324,7 +604,14 @@
       "applicability": "Core",
       "regulatory_area": "Dispute Resolution",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-850.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Legal Compliance",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Arbitration Management"
+        ]
+      }
     },
     {
       "law_id": "LAW-039",
@@ -333,7 +620,14 @@
       "applicability": "Core",
       "regulatory_area": "Intellectual Property",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1010.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Legal Compliance",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Trademark Compliance"
+        ]
+      }
     },
     {
       "law_id": "LAW-040",
@@ -342,7 +636,14 @@
       "applicability": "Conditional",
       "regulatory_area": "Intellectual Property",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1452.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Legal Compliance",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Copyright Compliance"
+        ]
+      }
     },
     {
       "law_id": "LAW-041",
@@ -351,7 +652,14 @@
       "applicability": "Conditional",
       "regulatory_area": "Intellectual Property",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1472.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Legal Compliance",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Patent Compliance"
+        ]
+      }
     },
     {
       "law_id": "LAW-042",
@@ -360,7 +668,16 @@
       "applicability": "Core for digital operations",
       "regulatory_area": "Cybersecurity",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1710.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Cyber Security",
+        "category": "Technology, Data & Security",
+        "requirements": [
+          "Penetration Testing",
+          "Security Monitoring",
+          "Digital Forensics"
+        ]
+      }
     },
     {
       "law_id": "LAW-043",
@@ -369,7 +686,14 @@
       "applicability": "Core for digital operations",
       "regulatory_area": "Cybersecurity",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1728.html",
-      "instrument": "Amendment Act"
+      "instrument": "Amendment Act",
+      "tier3": {
+        "domain": "Cyber Security",
+        "category": "Technology, Data & Security",
+        "requirements": [
+          "Security Monitoring"
+        ]
+      }
     },
     {
       "law_id": "LAW-044",
@@ -378,7 +702,16 @@
       "applicability": "Core for digital operations",
       "regulatory_area": "Privacy & Data Protection",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1692.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Privacy & Data Protection",
+        "category": "Technology, Data & Security",
+        "requirements": [
+          "Personal Data Protection",
+          "Consent Management",
+          "Data Breach Management"
+        ]
+      }
     },
     {
       "law_id": "LAW-045",
@@ -387,7 +720,14 @@
       "applicability": "Conditional",
       "regulatory_area": "ICT / Digital",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-950.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Information Security",
+        "category": "Technology, Data & Security",
+        "requirements": [
+          "Incident Response"
+        ]
+      }
     },
     {
       "law_id": "LAW-046",
@@ -396,7 +736,14 @@
       "applicability": "Conditional",
       "regulatory_area": "Investment",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1194.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Regulatory Compliance",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Regulatory Authority Compliance"
+        ]
+      }
     },
     {
       "law_id": "LAW-047",
@@ -405,7 +752,14 @@
       "applicability": "Conditional",
       "regulatory_area": "Investment",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1663.html",
-      "instrument": "Amendment Act"
+      "instrument": "Amendment Act",
+      "tier3": {
+        "domain": "Regulatory Compliance",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Regulatory Authority Compliance"
+        ]
+      }
     },
     {
       "law_id": "LAW-048",
@@ -414,7 +768,14 @@
       "applicability": "Conditional",
       "regulatory_area": "Investment",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1733.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Regulatory Compliance",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Regulatory Authority Compliance"
+        ]
+      }
     },
     {
       "law_id": "LAW-049",
@@ -423,7 +784,14 @@
       "applicability": "Conditional",
       "regulatory_area": "Investment / Economic Zones",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1053.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Regulatory Compliance",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Regulatory Authority Compliance"
+        ]
+      }
     },
     {
       "law_id": "LAW-050",
@@ -432,7 +800,15 @@
       "applicability": "Conditional",
       "regulatory_area": "Land / Property",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1454.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Legal Compliance",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Court Order Compliance",
+          "Litigation Management"
+        ]
+      }
     },
     {
       "law_id": "LAW-051",
@@ -441,7 +817,14 @@
       "applicability": "Core",
       "regulatory_area": "Anti-Corruption",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-914.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Anti-Bribery Compliance",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Anti-Corruption Controls"
+        ]
+      }
     },
     {
       "law_id": "LAW-052",
@@ -450,7 +833,14 @@
       "applicability": "Core",
       "regulatory_area": "Anti-Corruption",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-217.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Anti-Bribery Compliance",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Anti-Corruption Controls"
+        ]
+      }
     },
     {
       "law_id": "LAW-053",
@@ -459,7 +849,15 @@
       "applicability": "Core",
       "regulatory_area": "Financial Reporting",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1169.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Finance Compliance",
+        "category": "Finance, Tax & Insurance",
+        "requirements": [
+          "Financial Reporting",
+          "IFRS Compliance"
+        ]
+      }
     },
     {
       "law_id": "LAW-054",
@@ -468,7 +866,14 @@
       "applicability": "Conditional",
       "regulatory_area": "Foreign Exchange",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-218.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Finance Compliance",
+        "category": "Finance, Tax & Insurance",
+        "requirements": [
+          "Treasury Compliance"
+        ]
+      }
     },
     {
       "law_id": "LAW-055",
@@ -477,7 +882,15 @@
       "applicability": "Conditional",
       "regulatory_area": "Import-Export",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-236.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Import Export Compliance",
+        "category": "Supply Chain, Trade & Operations",
+        "requirements": [
+          "Import Licence",
+          "Export Licence"
+        ]
+      }
     },
     {
       "law_id": "LAW-056",
@@ -486,7 +899,14 @@
       "applicability": "Conditional",
       "regulatory_area": "Energy / Regulation",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-902.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Regulatory Compliance",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Utility Regulatory Compliance"
+        ]
+      }
     },
     {
       "law_id": "LAW-057",
@@ -495,7 +915,14 @@
       "applicability": "Conditional",
       "regulatory_area": "Energy / Regulation",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1423.html",
-      "instrument": "Amendment Act"
+      "instrument": "Amendment Act",
+      "tier3": {
+        "domain": "Regulatory Compliance",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Utility Regulatory Compliance"
+        ]
+      }
     },
     {
       "law_id": "LAW-058",
@@ -504,7 +931,14 @@
       "applicability": "Conditional",
       "regulatory_area": "Energy / Gas",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1052.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Energy Compliance",
+        "category": "HSE, Environment & Sustainability",
+        "requirements": [
+          "Utility Management"
+        ]
+      }
     },
     {
       "law_id": "LAW-059",
@@ -513,7 +947,15 @@
       "applicability": "Conditional",
       "regulatory_area": "Shipping / Inland Water",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-531.html",
-      "instrument": "Ordinance"
+      "instrument": "Ordinance",
+      "tier3": {
+        "domain": "Logistics Compliance",
+        "category": "Supply Chain, Trade & Operations",
+        "requirements": [
+          "Transportation Safety",
+          "Dangerous Goods"
+        ]
+      }
     },
     {
       "law_id": "LAW-060",
@@ -522,7 +964,15 @@
       "applicability": "Core",
       "regulatory_area": "Land / Registration",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-90.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Records Management",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Record Retention",
+          "Archiving"
+        ]
+      }
     },
     {
       "law_id": "LAW-061",
@@ -531,7 +981,14 @@
       "applicability": "Core",
       "regulatory_area": "Land / Property",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-48.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Legal Compliance",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Contract Compliance"
+        ]
+      }
     },
     {
       "law_id": "LAW-062",
@@ -540,7 +997,14 @@
       "applicability": "Conditional",
       "regulatory_area": "Land / Acquisition",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1220.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Legal Compliance",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Court Order Compliance"
+        ]
+      }
     },
     {
       "law_id": "LAW-063",
@@ -549,7 +1013,14 @@
       "applicability": "Core",
       "regulatory_area": "Stamp Duty",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-77.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Tax Compliance",
+        "category": "Finance, Tax & Insurance",
+        "requirements": [
+          "Stamp Duty"
+        ]
+      }
     },
     {
       "law_id": "LAW-064",
@@ -558,7 +1029,14 @@
       "applicability": "Conditional",
       "regulatory_area": "Securities / Capital Market",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-775.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Regulatory Compliance",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Regulatory Authority Compliance"
+        ]
+      }
     },
     {
       "law_id": "LAW-065",
@@ -567,7 +1045,14 @@
       "applicability": "Conditional",
       "regulatory_area": "Securities / Capital Market",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-355.html",
-      "instrument": "Ordinance"
+      "instrument": "Ordinance",
+      "tier3": {
+        "domain": "Regulatory Compliance",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Regulatory Authority Compliance"
+        ]
+      }
     },
     {
       "law_id": "LAW-066",
@@ -576,7 +1061,15 @@
       "applicability": "Core for feed operations",
       "regulatory_area": "Food Safety / Feed",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1029.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Food Safety Compliance",
+        "category": "Quality, Product & Customer",
+        "requirements": [
+          "GMP",
+          "Food Traceability"
+        ]
+      }
     },
     {
       "law_id": "LAW-067",
@@ -585,7 +1078,15 @@
       "applicability": "Core",
       "regulatory_area": "Emergency Preparedness",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1103.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Emergency Preparedness",
+        "category": "Resilience, Security & Emergency",
+        "requirements": [
+          "Evacuation",
+          "Rescue"
+        ]
+      }
     },
     {
       "law_id": "LAW-068",
@@ -594,7 +1095,15 @@
       "applicability": "Core",
       "regulatory_area": "Commercial / Banking",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-46.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Finance Compliance",
+        "category": "Finance, Tax & Insurance",
+        "requirements": [
+          "Banking Compliance",
+          "Treasury Compliance"
+        ]
+      }
     },
     {
       "law_id": "LAW-069",
@@ -603,7 +1112,14 @@
       "applicability": "Core",
       "regulatory_area": "Anti-Corruption",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1592.html",
-      "instrument": "Amendment Ordinance"
+      "instrument": "Amendment Ordinance",
+      "tier3": {
+        "domain": "Anti-Bribery Compliance",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Anti-Corruption Controls"
+        ]
+      }
     },
     {
       "law_id": "LAW-070",
@@ -612,7 +1128,14 @@
       "applicability": "Conditional",
       "regulatory_area": "CFT",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1009.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "AML & Financial Crime",
+        "category": "Finance, Tax & Insurance",
+        "requirements": [
+          "Counter Terrorist Financing"
+        ]
+      }
     },
     {
       "law_id": "LAW-071",
@@ -621,7 +1144,14 @@
       "applicability": "Conditional",
       "regulatory_area": "CFT",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1657.html",
-      "instrument": "Amendment Act"
+      "instrument": "Amendment Act",
+      "tier3": {
+        "domain": "AML & Financial Crime",
+        "category": "Finance, Tax & Insurance",
+        "requirements": [
+          "Counter Terrorist Financing"
+        ]
+      }
     },
     {
       "law_id": "LAW-072",
@@ -630,7 +1160,14 @@
       "applicability": "Conditional",
       "regulatory_area": "Local Government",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1026.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Regulatory Compliance",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Local Government Compliance"
+        ]
+      }
     },
     {
       "law_id": "LAW-073",
@@ -639,7 +1176,14 @@
       "applicability": "Conditional",
       "regulatory_area": "Local Government",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1024.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Regulatory Compliance",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Municipal Compliance"
+        ]
+      }
     },
     {
       "law_id": "LAW-074",
@@ -648,7 +1192,14 @@
       "applicability": "Conditional",
       "regulatory_area": "Local Government",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1027.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Regulatory Compliance",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Local Government Compliance"
+        ]
+      }
     },
     {
       "law_id": "LAW-075",
@@ -657,7 +1208,15 @@
       "applicability": "Core",
       "regulatory_area": "Taxation / Finance",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1725.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Tax Compliance",
+        "category": "Finance, Tax & Insurance",
+        "requirements": [
+          "Tax Return",
+          "Tax Assessment"
+        ]
+      }
     },
     {
       "law_id": "LAW-076",
@@ -666,7 +1225,15 @@
       "applicability": "Core",
       "regulatory_area": "Procurement",
       "url": "https://www.bppa.gov.bd/media-communication/news-1547.html",
-      "instrument": "Amendment Act"
+      "instrument": "Amendment Act",
+      "tier3": {
+        "domain": "Procurement Compliance",
+        "category": "Supply Chain, Trade & Operations",
+        "requirements": [
+          "Tender Management",
+          "Contract Award"
+        ]
+      }
     },
     {
       "law_id": "LAW-077",
@@ -675,7 +1242,15 @@
       "applicability": "Core",
       "regulatory_area": "Procurement",
       "url": "https://www.bppa.gov.bd/procurement-policy-and-procedure-documents/procurement-rules.html",
-      "instrument": "Rules"
+      "instrument": "Rules",
+      "tier3": {
+        "domain": "Procurement Compliance",
+        "category": "Supply Chain, Trade & Operations",
+        "requirements": [
+          "Tender Management",
+          "Bid Evaluation"
+        ]
+      }
     },
     {
       "law_id": "LAW-078",
@@ -684,7 +1259,14 @@
       "applicability": "Core",
       "regulatory_area": "Land / Registration",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-1643.html",
-      "instrument": "Amendment Act"
+      "instrument": "Amendment Act",
+      "tier3": {
+        "domain": "Records Management",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Record Retention"
+        ]
+      }
     },
     {
       "law_id": "LAW-079",
@@ -693,7 +1275,14 @@
       "applicability": "Core",
       "regulatory_area": "Taxation",
       "url": "https://nbr.gov.bd/regulations/rules/income-tax-rules/eng",
-      "instrument": "Rules"
+      "instrument": "Rules",
+      "tier3": {
+        "domain": "Tax Compliance",
+        "category": "Finance, Tax & Insurance",
+        "requirements": [
+          "Withholding Tax"
+        ]
+      }
     },
     {
       "law_id": "LAW-080",
@@ -702,7 +1291,14 @@
       "applicability": "Core",
       "regulatory_area": "VAT / SD",
       "url": "https://nbr.gov.bd/regulations/rules/vat-rules/eng",
-      "instrument": "Rules"
+      "instrument": "Rules",
+      "tier3": {
+        "domain": "Tax Compliance",
+        "category": "Finance, Tax & Insurance",
+        "requirements": [
+          "VAT"
+        ]
+      }
     },
     {
       "law_id": "LAW-LEGACY",
@@ -711,7 +1307,14 @@
       "applicability": "Core",
       "regulatory_area": "Commercial Transactions",
       "url": "http://bdlaws.minlaw.gov.bd/act-details-150.html",
-      "instrument": "Act"
+      "instrument": "Act",
+      "tier3": {
+        "domain": "Legal Compliance",
+        "category": "Governance, Legal & Integrity",
+        "requirements": [
+          "Contract Compliance"
+        ]
+      }
     }
   ]
 }
